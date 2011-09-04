@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23500/dojox/trunk/mobile/build
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23500/dojox/trunk/mobile/build/build.bat
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23500/dojox/trunk/mobile/build/build.sh
+END

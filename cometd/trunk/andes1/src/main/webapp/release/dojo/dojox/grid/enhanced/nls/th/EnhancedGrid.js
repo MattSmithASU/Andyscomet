@@ -1,0 +1,1 @@
+({"singleSort":"เรียงลำดับแบบเดี่ยว","indirectSelectionRadio":"แถว ${0}, การเลือกเดียว, กล่องวิทยุ","ascending":"จากน้อยไปหามาก","indirectSelectionCheckBox":"แถว ${0}, การเลือกจำนวนมาก, เช็กบ็อกซ์","selectAll":"เลือกทั้งหมด","descending":"จากมากไปหาน้อย","nestedSort":"เรียงลำดับที่ซับซ้อน","unsorted":"ห้ามเรียงลำดับคอลัมน์นี้","sortingState":"${0} - ${1}"})

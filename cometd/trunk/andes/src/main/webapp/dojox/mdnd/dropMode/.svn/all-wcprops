@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23844/dojox/trunk/mdnd/dropMode
+END
+OverDropMode.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22174/dojox/trunk/mdnd/dropMode/OverDropMode.js
+END
+DefaultDropMode.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23844/dojox/trunk/mdnd/dropMode/DefaultDropMode.js
+END
+VerticalDropMode.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/mdnd/dropMode/VerticalDropMode.js
+END

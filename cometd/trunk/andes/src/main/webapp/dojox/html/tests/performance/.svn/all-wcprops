@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/20311/dojox/trunk/html/tests/performance
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/20251/dojox/trunk/html/tests/performance/module.js
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/20311/dojox/trunk/html/tests/performance/format.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/20251/dojox/trunk/html/tests/performance/runTests.html
+END
+smalldoc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/20251/dojox/trunk/html/tests/performance/smalldoc.txt
+END
+largedoc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/20251/dojox/trunk/html/tests/performance/largedoc.txt
+END

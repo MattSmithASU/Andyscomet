@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/12801/dojox/trunk/charting/tests/data
+END
+msft_prices.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/12801/dojox/trunk/charting/tests/data/msft_prices.csv
+END
+goog_prices.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/12801/dojox/trunk/charting/tests/data/goog_prices.csv
+END
+yahoo_prices.csv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/12801/dojox/trunk/charting/tests/data/yahoo_prices.csv
+END

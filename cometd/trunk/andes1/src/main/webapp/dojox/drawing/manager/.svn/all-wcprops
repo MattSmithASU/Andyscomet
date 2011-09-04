@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/24082/dojox/trunk/drawing/manager
+END
+Undo.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23844/dojox/trunk/drawing/manager/Undo.js
+END
+_registry.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23844/dojox/trunk/drawing/manager/_registry.js
+END
+Mouse.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/24082/dojox/trunk/drawing/manager/Mouse.js
+END
+Canvas.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23844/dojox/trunk/drawing/manager/Canvas.js
+END
+keys.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23844/dojox/trunk/drawing/manager/keys.js
+END
+Anchors.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23844/dojox/trunk/drawing/manager/Anchors.js
+END
+StencilUI.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23844/dojox/trunk/drawing/manager/StencilUI.js
+END
+Stencil.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23844/dojox/trunk/drawing/manager/Stencil.js
+END

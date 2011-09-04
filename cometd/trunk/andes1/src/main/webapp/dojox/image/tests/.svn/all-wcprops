@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/22507/dojox/trunk/image/tests
+END
+test_Gallery_in_TabContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/20910/dojox/trunk/image/tests/test_Gallery_in_TabContainer.html
+END
+test_MagnifierLite.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/15375/dojox/trunk/image/tests/test_MagnifierLite.html
+END
+test_Lightbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22507/dojox/trunk/image/tests/test_Lightbox.html
+END
+test_ThumbnailPicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/20288/dojox/trunk/image/tests/test_ThumbnailPicker.html
+END
+Lightbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/22235/dojox/trunk/image/tests/Lightbox.html
+END
+test_ThumbnailPickerLightbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/15375/dojox/trunk/image/tests/test_ThumbnailPickerLightbox.html
+END
+test_Gallery_GoogleData.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/20288/dojox/trunk/image/tests/test_Gallery_GoogleData.html
+END
+test_SlideShow_GoogleData.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/13945/dojox/trunk/image/tests/test_SlideShow_GoogleData.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/20342/dojox/trunk/image/tests/runTests.html
+END
+test_LightboxNano.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/20381/dojox/trunk/image/tests/test_LightboxNano.html
+END
+test_FlickrBadge.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/15375/dojox/trunk/image/tests/test_FlickrBadge.html
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/20342/dojox/trunk/image/tests/module.js
+END
+test_Gallery.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/13945/dojox/trunk/image/tests/test_Gallery.html
+END
+onloads.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/20342/dojox/trunk/image/tests/onloads.html
+END
+test_Magnifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/15375/dojox/trunk/image/tests/test_Magnifier.html
+END
+test_SlideShow.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/13945/dojox/trunk/image/tests/test_SlideShow.html
+END
+test_Badge.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/15375/dojox/trunk/image/tests/test_Badge.html
+END
+test_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/17204/dojox/trunk/image/tests/test_base.html
+END
+images.json
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/20910/dojox/trunk/image/tests/images.json
+END

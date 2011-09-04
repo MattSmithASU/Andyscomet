@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23844/dojox/trunk/data/tests
+END
+ClientFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23844/dojox/trunk/data/tests/ClientFilter.js
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23844/dojox/trunk/data/tests/module.js
+END
+QueryReadStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/13867/dojox/trunk/data/tests/QueryReadStore.html
+END
+treeTest.json
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/20910/dojox/trunk/data/tests/treeTest.json
+END
+dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23844/dojox/trunk/data/tests/dom.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/15375/dojox/trunk/data/tests/runTests.html
+END

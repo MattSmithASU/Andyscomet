@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Choose a principle of physics</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link href="../dojo/resources/dojo.css" rel="stylesheet" />
+<link href="../dijit/themes/tundra/tundra.css" rel="stylesheet" />
+
+<!-- Percentage avoids the double scrollbar problem -->
+<style type="text/css">
+ div.tall {
+     height: 80%; overflow: auto;
+   }
+</style>
+
+<!-- required: dojo.js -->
+
+<script type="text/javascript" src="../dojo/dojo.js"
+	djConfig="parseOnLoad: true, isDebug: true"></script>
+
+<script>
+  djConfig.modulePaths = {'andes':'../andes'};
+  dojo.require("dojo.parser");
+
+    dojo.require("dijit.layout.ContentPane");
+    dojo.require("dijit.layout.BorderContainer");
+    dojo.require("dijit.MenuBar");
+    dojo.require("dijit.MenuBarItem");
+    dojo.require("dijit.PopupMenuBarItem");
+    dojo.require("dijit.Menu");
+    dojo.require("dijit.MenuItem");
+    dojo.require("dijit.PopupMenuItem");
+    dojo.require("dijit.Dialog");
+
+    dojo.require("andes.principles");
+       
+</script>
+</head>
+<body class="tundra">
+
+
+   <div id="majorPrinciples" dojoType="dijit.Dialog" title="Principles">
+     <div id="majorModalTree" class="tall">
+	  Loading list of major Principles
+     </div>
+  </div>
+
+   <div id="allPrinciples" dojoType="dijit.Dialog" title="Principles">
+     <div id="allModalTree" class="tall">
+	  Loading list of all Principles
+     </div>
+  </div>
+
+  <div id="main" dojoType="dijit.layout.BorderContainer" gutters="false">
+    <div dojoType="dijit.MenuBar" id="navMenu" region="top" splitter="false">
+      <div dojoType="dijit.PopupMenuBarItem">
+        <span>Physics</span>
+	<div dojoType="dijit.Menu" id="menuFile">
+	  <div id="menuFile0" dojoType="dijit.MenuItem" onclick="andes.principles.externP">
+               External Principles</div>
+	  <div id="menuFile1" dojoType="dijit.MenuItem" onclick='dijit.byId("allPrinciples").show();'>
+               All Principles</div>
+	  <div id="menuFile2" dojoType="dijit.MenuItem" onclick='dijit.byId("majorPrinciples").show();'>
+               Major Principles</div>
+        </div>
+      </div>
+    </div>
+    
+    <div dojoType="dijit.layout.ContentPane">
+      <h1>Test Principles of physics menu.</h1>
+
+      <P>Menus contain link to external page, and modal dialog boxes containing all principles and major principles.</p>
+    </div>
+
+  </div>	
+</body>
+</html>

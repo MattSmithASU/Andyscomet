@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23265/util/trunk/buildscripts/cldr/ldml
+END
+CatalogManager.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/22183/util/trunk/buildscripts/cldr/ldml/CatalogManager.properties
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/10293/util/trunk/buildscripts/cldr/ldml/LICENSE
+END
+core.zip
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23265/util/trunk/buildscripts/cldr/ldml/core.zip
+END
+catalog
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/21636/util/trunk/buildscripts/cldr/ldml/catalog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/7822/util/trunk/buildscripts/cldr/ldml/README
+END

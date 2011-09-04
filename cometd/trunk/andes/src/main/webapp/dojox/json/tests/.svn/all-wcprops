@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/24198/dojox/trunk/json/tests
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/17506/dojox/trunk/json/tests/module.js
+END
+query.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/24198/dojox/trunk/json/tests/query.js
+END
+ref.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/17531/dojox/trunk/json/tests/ref.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/15375/dojox/trunk/json/tests/runTests.html
+END
+schema.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23844/dojox/trunk/json/tests/schema.js
+END

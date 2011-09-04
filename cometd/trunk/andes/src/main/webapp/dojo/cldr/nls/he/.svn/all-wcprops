@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/he
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/he/number.js
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/he/currency.js
+END
+hebrew.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/he/hebrew.js
+END
+gregorian.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/he/gregorian.js
+END
+islamic.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/he/islamic.js
+END

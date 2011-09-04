@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23844/dojox/trunk/lang/functional
+END
+curry.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23844/dojox/trunk/lang/functional/curry.js
+END
+object.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23844/dojox/trunk/lang/functional/object.js
+END
+sequence.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/16130/dojox/trunk/lang/functional/sequence.js
+END
+linrec.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/15375/dojox/trunk/lang/functional/linrec.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/15375/dojox/trunk/lang/functional/util.js
+END
+array.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23844/dojox/trunk/lang/functional/array.js
+END
+reversed.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23844/dojox/trunk/lang/functional/reversed.js
+END
+lambda.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23844/dojox/trunk/lang/functional/lambda.js
+END
+tailrec.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/15375/dojox/trunk/lang/functional/tailrec.js
+END
+fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23844/dojox/trunk/lang/functional/fold.js
+END
+multirec.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/15375/dojox/trunk/lang/functional/multirec.js
+END
+scan.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23844/dojox/trunk/lang/functional/scan.js
+END
+numrec.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/15375/dojox/trunk/lang/functional/numrec.js
+END
+listcomp.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23844/dojox/trunk/lang/functional/listcomp.js
+END
+binrec.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/15375/dojox/trunk/lang/functional/binrec.js
+END
+zip.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23844/dojox/trunk/lang/functional/zip.js
+END

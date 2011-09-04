@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23843/dojo/trunk/tests/store
+END
+Observable.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23843/dojo/trunk/tests/store/Observable.js
+END
+DataStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23843/dojo/trunk/tests/store/DataStore.js
+END
+JsonRest.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23843/dojo/trunk/tests/store/JsonRest.js
+END
+Memory.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23843/dojo/trunk/tests/store/Memory.js
+END
+treeTestRoot
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23207/dojo/trunk/tests/store/treeTestRoot
+END
+node1.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23207/dojo/trunk/tests/store/node1.1
+END
+node1.2
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23207/dojo/trunk/tests/store/node1.2
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23719/dojo/trunk/tests/store/runTests.html
+END
+Cache.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23843/dojo/trunk/tests/store/Cache.js
+END

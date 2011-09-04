@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/20350/util/trunk/buildscripts/webbuild/server/lib
+END
+js.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/15572/util/trunk/buildscripts/webbuild/server/lib/js.jar
+END
+shrinksafe.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/20350/util/trunk/buildscripts/webbuild/server/lib/shrinksafe.jar
+END

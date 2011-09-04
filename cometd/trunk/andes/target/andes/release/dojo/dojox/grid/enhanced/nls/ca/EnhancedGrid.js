@@ -1,0 +1,1 @@
+({"singleSort":"Ordre únic","indirectSelectionRadio":"Fila ${0}, selecció única, quadre d'opció","ascending":"Ascendent","indirectSelectionCheckBox":"Fila ${0}, selecció múltiple, quadre de selecció","selectAll":"Seleccionar-ho tot","descending":"Descendent","nestedSort":"Ordre imbricat","unsorted":"No ordenis aquesta finestra","sortingState":"${0} - ${1}"})

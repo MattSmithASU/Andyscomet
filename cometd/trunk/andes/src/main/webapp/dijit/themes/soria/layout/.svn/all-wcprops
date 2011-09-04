@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23730/dijit/trunk/themes/soria/layout
+END
+TabContainer.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23730/dijit/trunk/themes/soria/layout/TabContainer.css
+END
+TabContainer_rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/23730/dijit/trunk/themes/soria/layout/TabContainer_rtl.css
+END
+ContentPane.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23730/dijit/trunk/themes/soria/layout/ContentPane.css
+END
+SplitContainer.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/23730/dijit/trunk/themes/soria/layout/SplitContainer.css
+END
+BorderContainer.css
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/23730/dijit/trunk/themes/soria/layout/BorderContainer.css
+END
+AccordionContainer.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/21506/dijit/trunk/themes/soria/layout/AccordionContainer.css
+END
+AccordionContainer_rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/23730/dijit/trunk/themes/soria/layout/AccordionContainer_rtl.css
+END

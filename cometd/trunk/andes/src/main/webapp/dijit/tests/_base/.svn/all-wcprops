@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/24190/dijit/trunk/tests/_base
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23360/dijit/trunk/tests/_base/module.js
+END
+tabindex.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23460/dijit/trunk/tests/_base/tabindex.html
+END
+test_typematic.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23315/dijit/trunk/tests/_base/test_typematic.html
+END
+multiversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/21444/dijit/trunk/tests/_base/multiversion.html
+END
+test_CrossWindow.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/23940/dijit/trunk/tests/_base/test_CrossWindow.html
+END
+wai.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/22914/dijit/trunk/tests/_base/wai.html
+END
+test_focusWidget.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/23997/dijit/trunk/tests/_base/test_focusWidget.html
+END
+test_popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/24190/dijit/trunk/tests/_base/test_popup.html
+END
+place.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23315/dijit/trunk/tests/_base/place.html
+END
+test_FocusManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23315/dijit/trunk/tests/_base/test_FocusManager.html
+END
+manager.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23460/dijit/trunk/tests/_base/manager.html
+END

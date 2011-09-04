@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23844/dojox/trunk/math/tests
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/18962/dojox/trunk/math/tests/main.js
+END
+round.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/math/tests/round.js
+END
+math.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/20977/dojox/trunk/math/tests/math.js
+END
+stats.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/math/tests/stats.js
+END
+BigInteger.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/20342/dojox/trunk/math/tests/BigInteger.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/14374/dojox/trunk/math/tests/runTests.html
+END
+random.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/20342/dojox/trunk/math/tests/random.js
+END

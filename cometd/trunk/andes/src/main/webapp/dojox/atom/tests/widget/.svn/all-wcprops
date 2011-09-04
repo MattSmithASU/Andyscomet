@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/15805/dojox/trunk/atom/tests/widget
+END
+test_FeedViewer_bind_sync.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/15805/dojox/trunk/atom/tests/widget/test_FeedViewer_bind_sync.html
+END
+test_FeedViewer_bind_split_declarative.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/15805/dojox/trunk/atom/tests/widget/test_FeedViewer_bind_split_declarative.html
+END
+test_FeedViewer_local.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/15805/dojox/trunk/atom/tests/widget/test_FeedViewer_local.html
+END
+test_FeedViewer_bind.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/15805/dojox/trunk/atom/tests/widget/test_FeedViewer_bind.html
+END
+samplefeed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/15805/dojox/trunk/atom/tests/widget/samplefeed.xml
+END
+test_FeedViewer_local_declarative.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/15805/dojox/trunk/atom/tests/widget/test_FeedViewer_local_declarative.html
+END
+samplefeedEdit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/15805/dojox/trunk/atom/tests/widget/samplefeedEdit.xml
+END

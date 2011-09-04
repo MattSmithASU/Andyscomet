@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/src/!svn/ver/24278/dojo/trunk/tests
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/13259/dojo/trunk/tests/html.js
+END
+test_fx.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/15373/dojo/trunk/tests/test_fx.html
+END
+AdapterRegistry.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23843/dojo/trunk/tests/AdapterRegistry.js
+END
+baseonly.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23207/dojo/trunk/tests/baseonly.js
+END
+smoke-dojo-sie.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23207/dojo/trunk/tests/smoke-dojo-sie.html
+END
+uacss.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/21360/dojo/trunk/tests/uacss.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/8300/dojo/trunk/tests/runTests.html
+END
+back-hash.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/15373/dojo/trunk/tests/back-hash.js
+END
+hash.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23843/dojo/trunk/tests/hash.js
+END
+parser.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/24278/dojo/trunk/tests/parser.html
+END
+Stateful.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23843/dojo/trunk/tests/Stateful.js
+END
+back.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/13201/dojo/trunk/tests/back.html
+END
+regexp.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23843/dojo/trunk/tests/regexp.js
+END
+parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/9314/dojo/trunk/tests/parser.js
+END
+store.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23906/dojo/trunk/tests/store.js
+END
+back.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/8630/dojo/trunk/tests/back.js
+END
+cookie.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/12445/dojo/trunk/tests/cookie.html
+END
+NodeList-traverse.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22537/dojo/trunk/tests/NodeList-traverse.html
+END
+cache.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23843/dojo/trunk/tests/cache.js
+END
+fx.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/24124/dojo/trunk/tests/fx.html
+END
+string.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23843/dojo/trunk/tests/string.js
+END
+NodeList-manipulate.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/20340/dojo/trunk/tests/NodeList-manipulate.html
+END
+window.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/22175/dojo/trunk/tests/window.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23843/dojo/trunk/tests/_base.js
+END
+cookie.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/8277/dojo/trunk/tests/cookie.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23032/dojo/trunk/tests/data.js
+END
+NodeList-traverse.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/20340/dojo/trunk/tests/NodeList-traverse.js
+END
+test_FirebugLitePopup.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/13186/dojo/trunk/tests/test_FirebugLitePopup.html
+END
+DeferredList.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23843/dojo/trunk/tests/DeferredList.js
+END
+fx.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/13213/dojo/trunk/tests/fx.js
+END
+date.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23843/dojo/trunk/tests/date.js
+END
+NodeList-manipulate.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/20340/dojo/trunk/tests/NodeList-manipulate.js
+END
+i18n.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23843/dojo/trunk/tests/i18n.js
+END
+NodeList-data.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23207/dojo/trunk/tests/NodeList-data.html
+END
+cldr.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23843/dojo/trunk/tests/cldr.js
+END
+NodeList-fx.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/22464/dojo/trunk/tests/NodeList-fx.html
+END
+rpc.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/23843/dojo/trunk/tests/rpc.js
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23843/dojo/trunk/tests/module.js
+END
+behavior.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23032/dojo/trunk/tests/behavior.html
+END
+NodeList-data.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23207/dojo/trunk/tests/NodeList-data.js
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23843/dojo/trunk/tests/number.js
+END
+test_FirebugLite.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/10746/dojo/trunk/tests/test_FirebugLite.html
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23843/dojo/trunk/tests/currency.js
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/23207/dojo/trunk/tests/TODO
+END
+behavior.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/8657/dojo/trunk/tests/behavior.js
+END
+colors.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23843/dojo/trunk/tests/colors.js
+END

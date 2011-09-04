@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/24247/dijit/trunk/_editor/plugins
+END
+AlwaysShowToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23033/dijit/trunk/_editor/plugins/AlwaysShowToolbar.js
+END
+NewPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23033/dijit/trunk/_editor/plugins/NewPage.js
+END
+TabIndent.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23033/dijit/trunk/_editor/plugins/TabIndent.js
+END
+EnterKeyHandling.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/24110/dijit/trunk/_editor/plugins/EnterKeyHandling.js
+END
+ViewSource.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23997/dijit/trunk/_editor/plugins/ViewSource.js
+END
+Print.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23033/dijit/trunk/_editor/plugins/Print.js
+END
+LinkDialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/24247/dijit/trunk/_editor/plugins/LinkDialog.js
+END
+ToggleDir.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23033/dijit/trunk/_editor/plugins/ToggleDir.js
+END
+FontChoice.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23940/dijit/trunk/_editor/plugins/FontChoice.js
+END
+FullScreen.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23997/dijit/trunk/_editor/plugins/FullScreen.js
+END
+TextColor.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23997/dijit/trunk/_editor/plugins/TextColor.js
+END

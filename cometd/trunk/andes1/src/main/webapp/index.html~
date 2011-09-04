@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+    <script type="text/javascript" src="dojo/dojo.js">
+    <script type="text/javascript" src="application.js"></script>
+    
+</head>
+<body>
+    <p>testing 1 2 3 4 5 6 7 
+    
+    </p>
+    <p id="andes">
+    </p>
+    <script type="text/javascript">
+    	document.write(Date());
+    </script>
+</body>
+</html>
+

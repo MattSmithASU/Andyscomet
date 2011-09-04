@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/16900/util/trunk/buildscripts/cldr/lib
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/15530/util/trunk/buildscripts/cldr/lib/LICENSE
+END
+ant-apache-bsf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/15530/util/trunk/buildscripts/cldr/lib/ant-apache-bsf.jar
+END
+bsf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/15530/util/trunk/buildscripts/cldr/lib/bsf.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/15530/util/trunk/buildscripts/cldr/lib/commons-logging-1.1.1.jar
+END
+MPL-1.0.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/10809/util/trunk/buildscripts/cldr/lib/MPL-1.0.html
+END
+APL-2.0.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/16900/util/trunk/buildscripts/cldr/lib/APL-2.0.html
+END
+resolver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/7858/util/trunk/buildscripts/cldr/lib/resolver.jar
+END
+saxon9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/15530/util/trunk/buildscripts/cldr/lib/saxon9.jar
+END

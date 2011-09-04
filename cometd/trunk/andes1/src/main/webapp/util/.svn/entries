@@ -1,0 +1,83 @@
+10
+
+dir
+24327
+http://svn.dojotoolkit.org/src/util/trunk
+http://svn.dojotoolkit.org/src
+
+
+
+2011-04-11T23:33:55.307282Z
+24275
+haysmark
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+560b804f-0ae3-0310-86f3-f6aa0a117693
+
+jsdoc
+dir
+
+LICENSE
+file
+
+
+
+
+2011-04-22T16:25:44.000000Z
+3d06b14ab533a5e4f9815b5b8761eb84
+2011-01-22T16:04:53.475842Z
+23605
+dante
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11347
+
+buildscripts
+dir
+
+migration
+dir
+
+doh
+dir
+
+docscripts
+dir
+
+shrinksafe
+dir
+
+checkstyle
+dir
+

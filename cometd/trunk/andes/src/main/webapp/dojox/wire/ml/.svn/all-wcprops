@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/src/!svn/ver/23844/dojox/trunk/wire/ml
+END
+Transfer.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/10052/dojox/trunk/wire/ml/Transfer.js
+END
+DataStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/10052/dojox/trunk/wire/ml/DataStore.js
+END
+Data.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/16350/dojox/trunk/wire/ml/Data.js
+END
+Invocation.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/20463/dojox/trunk/wire/ml/Invocation.js
+END
+Action.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23844/dojox/trunk/wire/ml/Action.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/15951/dojox/trunk/wire/ml/util.js
+END
+Service.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/15951/dojox/trunk/wire/ml/Service.js
+END

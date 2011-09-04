@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23843/dojo/trunk/tests/_base/_loader
+END
+config-data.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23207/dojo/trunk/tests/_base/_loader/config-data.html
+END
+8976.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22681/dojo/trunk/tests/_base/_loader/8976.html
+END
+addLoadEvents.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/20216/dojo/trunk/tests/_base/_loader/addLoadEvents.html
+END
+fastbackTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/16885/dojo/trunk/tests/_base/_loader/fastbackTest.html
+END
+loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23843/dojo/trunk/tests/_base/_loader/loader.js
+END
+modules.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23843/dojo/trunk/tests/_base/_loader/modules.js
+END
+bootstrap.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23843/dojo/trunk/tests/_base/_loader/bootstrap.js
+END
+hostenv_spidermonkey.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/23843/dojo/trunk/tests/_base/_loader/hostenv_spidermonkey.js
+END
+a.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23207/dojo/trunk/tests/_base/_loader/a.js
+END
+hostenv_rhino.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23843/dojo/trunk/tests/_base/_loader/hostenv_rhino.js
+END
+afterOnLoad.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23094/dojo/trunk/tests/_base/_loader/afterOnLoad.html
+END
+config-dj-global.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/23207/dojo/trunk/tests/_base/_loader/config-dj-global.html
+END
+getText.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/7726/dojo/trunk/tests/_base/_loader/getText.txt
+END
+hostenv_browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23843/dojo/trunk/tests/_base/_loader/hostenv_browser.js
+END
+config-dj-elemt.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/23207/dojo/trunk/tests/_base/_loader/config-dj-elemt.html
+END
+debugConsole.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/15041/dojo/trunk/tests/_base/_loader/debugConsole.html
+END
+config-data-global.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/23207/dojo/trunk/tests/_base/_loader/config-data-global.html
+END

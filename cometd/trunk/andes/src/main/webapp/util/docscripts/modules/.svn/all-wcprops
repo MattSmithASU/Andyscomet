@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/22183/util/trunk/docscripts/modules
+END
+dojo.module
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/16735/util/trunk/docscripts/modules/dojo.module
+END
+dojox.module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/22183/util/trunk/docscripts/modules/dojox.module.properties
+END
+dijit.module
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/16735/util/trunk/docscripts/modules/dijit.module
+END

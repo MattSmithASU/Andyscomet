@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/src/!svn/ver/23843/dojo/trunk/data/util
+END
+filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23843/dojo/trunk/data/util/filter.js
+END
+sorter.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23843/dojo/trunk/data/util/sorter.js
+END
+simpleFetch.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23843/dojo/trunk/data/util/simpleFetch.js
+END

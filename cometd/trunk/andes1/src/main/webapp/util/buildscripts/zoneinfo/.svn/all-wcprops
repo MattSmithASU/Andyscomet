@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/20343/util/trunk/buildscripts/zoneinfo
+END
+tzdata2009k.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/19745/util/trunk/buildscripts/zoneinfo/tzdata2009k.tar.gz
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/20343/util/trunk/buildscripts/zoneinfo/LICENSE
+END
+strip_olson_comments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/19745/util/trunk/buildscripts/zoneinfo/strip_olson_comments.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/19745/util/trunk/buildscripts/zoneinfo/README
+END

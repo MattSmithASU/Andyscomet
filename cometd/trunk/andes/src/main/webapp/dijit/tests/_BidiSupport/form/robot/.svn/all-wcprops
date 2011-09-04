@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/24278/dijit/trunk/tests/_BidiSupport/form/robot
+END
+Textarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/24278/dijit/trunk/tests/_BidiSupport/form/robot/Textarea.html
+END
+TextBoxes.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/24278/dijit/trunk/tests/_BidiSupport/form/robot/TextBoxes.html
+END
+SimpleTextarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/24278/dijit/trunk/tests/_BidiSupport/form/robot/SimpleTextarea.html
+END
+SimpleComboBoxes.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/24278/dijit/trunk/tests/_BidiSupport/form/robot/SimpleComboBoxes.html
+END

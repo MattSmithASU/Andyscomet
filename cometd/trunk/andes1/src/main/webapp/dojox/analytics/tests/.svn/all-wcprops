@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/17280/dojox/trunk/analytics/tests
+END
+test_GoogleAnalytics.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/15375/dojox/trunk/analytics/tests/test_GoogleAnalytics.html
+END
+test_GoogleAnalyticsMarkup.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/17280/dojox/trunk/analytics/tests/test_GoogleAnalyticsMarkup.html
+END
+test_analytics.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/15375/dojox/trunk/analytics/tests/test_analytics.html
+END

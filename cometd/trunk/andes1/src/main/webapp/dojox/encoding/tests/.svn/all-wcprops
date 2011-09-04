@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23844/dojox/trunk/encoding/tests
+END
+ascii85.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/11263/dojox/trunk/encoding/tests/ascii85.js
+END
+encoding.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/11776/dojox/trunk/encoding/tests/encoding.js
+END
+easy64.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/11263/dojox/trunk/encoding/tests/easy64.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/15375/dojox/trunk/encoding/tests/runTests.html
+END
+bits.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/11263/dojox/trunk/encoding/tests/bits.js
+END

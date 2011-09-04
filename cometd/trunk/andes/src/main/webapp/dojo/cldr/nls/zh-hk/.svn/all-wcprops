@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/zh-hk
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23139/dojo/trunk/cldr/nls/zh-hk/number.js
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/zh-hk/currency.js
+END
+gregorian.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23843/dojo/trunk/cldr/nls/zh-hk/gregorian.js
+END

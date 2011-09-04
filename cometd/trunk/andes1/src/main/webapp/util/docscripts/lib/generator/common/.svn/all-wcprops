@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/20365/util/trunk/docscripts/lib/generator/common
+END
+AbstractSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/20365/util/trunk/docscripts/lib/generator/common/AbstractSerializer.php
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/20343/util/trunk/docscripts/lib/generator/common/db.php
+END

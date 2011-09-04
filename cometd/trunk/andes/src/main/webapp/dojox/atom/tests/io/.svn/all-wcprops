@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23844/dojox/trunk/atom/tests/io
+END
+service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/15805/dojox/trunk/atom/tests/io/service.xml
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23844/dojox/trunk/atom/tests/io/module.js
+END
+sampleFeedXMLContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/17288/dojox/trunk/atom/tests/io/sampleFeedXMLContent.xml
+END
+appFail.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/16886/dojox/trunk/atom/tests/io/appFail.php
+END
+sampleEntry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/15805/dojox/trunk/atom/tests/io/sampleEntry.xml
+END
+app.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/16886/dojox/trunk/atom/tests/io/app.php
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/15805/dojox/trunk/atom/tests/io/runTests.html
+END
+samplefeedEdit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/15805/dojox/trunk/atom/tests/io/samplefeedEdit.xml
+END

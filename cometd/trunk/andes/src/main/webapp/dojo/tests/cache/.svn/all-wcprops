@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/20340/dojo/trunk/tests/cache
+END
+regular.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/20340/dojo/trunk/tests/cache/regular.html
+END
+object.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/20340/dojo/trunk/tests/cache/object.html
+END
+sanitized.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/20340/dojo/trunk/tests/cache/sanitized.html
+END

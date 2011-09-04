@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/24310/dijit/trunk/tests/editor/robot
+END
+Editor_NewPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/24063/dijit/trunk/tests/editor/robot/Editor_NewPage.html
+END
+Editor_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23511/dijit/trunk/tests/editor/robot/Editor_mouse.html
+END
+ToggleDir.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/23084/dijit/trunk/tests/editor/robot/ToggleDir.html
+END
+Editor_ViewSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/24063/dijit/trunk/tests/editor/robot/Editor_ViewSource.html
+END
+Editor_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/24063/dijit/trunk/tests/editor/robot/Editor_a11y.html
+END
+Editor_misc.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/24063/dijit/trunk/tests/editor/robot/Editor_misc.html
+END
+ToggleDir_rtl.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23084/dijit/trunk/tests/editor/robot/ToggleDir_rtl.html
+END
+Editor_LinkDialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/24063/dijit/trunk/tests/editor/robot/Editor_LinkDialog.html
+END
+BackForwardState.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/23082/dijit/trunk/tests/editor/robot/BackForwardState.html
+END
+Editor_FontChoice.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/24063/dijit/trunk/tests/editor/robot/Editor_FontChoice.html
+END
+Editor_FullScreen.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/24310/dijit/trunk/tests/editor/robot/Editor_FullScreen.html
+END
+TabIndent.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/24063/dijit/trunk/tests/editor/robot/TabIndent.html
+END
+CustomPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/24063/dijit/trunk/tests/editor/robot/CustomPlugin.html
+END
+EnterKeyHandling.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/24110/dijit/trunk/tests/editor/robot/EnterKeyHandling.html
+END

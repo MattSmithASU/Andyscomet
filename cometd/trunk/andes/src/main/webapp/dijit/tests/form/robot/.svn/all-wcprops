@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/24286/dijit/trunk/tests/form/robot
+END
+TimeTextBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22957/dijit/trunk/tests/form/robot/TimeTextBox.html
+END
+Textarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23959/dijit/trunk/tests/form/robot/Textarea.html
+END
+Slider_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/21755/dijit/trunk/tests/form/robot/Slider_a11y.html
+END
+FilteringSelect_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/20570/dijit/trunk/tests/form/robot/FilteringSelect_a11y.html
+END
+Select.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23485/dijit/trunk/tests/form/robot/Select.html
+END
+ComboBox_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/20570/dijit/trunk/tests/form/robot/ComboBox_mouse.html
+END
+CheckBox_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23980/dijit/trunk/tests/form/robot/CheckBox_a11y.html
+END
+validationMessages.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/23938/dijit/trunk/tests/form/robot/validationMessages.html
+END
+Button_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/24185/dijit/trunk/tests/form/robot/Button_mouse.html
+END
+Form_onsubmit.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/24180/dijit/trunk/tests/form/robot/Form_onsubmit.html
+END
+Spinner_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23080/dijit/trunk/tests/form/robot/Spinner_mouse.html
+END
+SimpleTextarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23084/dijit/trunk/tests/form/robot/SimpleTextarea.html
+END
+MultiSelect.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/24286/dijit/trunk/tests/form/robot/MultiSelect.html
+END
+Slider_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23099/dijit/trunk/tests/form/robot/Slider_mouse.html
+END
+DateTextBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/24249/dijit/trunk/tests/form/robot/DateTextBox.html
+END
+FilteringSelect_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/20570/dijit/trunk/tests/form/robot/FilteringSelect_mouse.html
+END
+_autoComplete_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/24211/dijit/trunk/tests/form/robot/_autoComplete_a11y.html
+END
+CheckBox_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/24032/dijit/trunk/tests/form/robot/CheckBox_mouse.html
+END
+Form_state.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23220/dijit/trunk/tests/form/robot/Form_state.html
+END
+ComboBox_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/20570/dijit/trunk/tests/form/robot/ComboBox_a11y.html
+END
+Button_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/24177/dijit/trunk/tests/form/robot/Button_a11y.html
+END
+ValidationTextBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/23777/dijit/trunk/tests/form/robot/ValidationTextBox.html
+END
+_autoComplete_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/24211/dijit/trunk/tests/form/robot/_autoComplete_mouse.html
+END
+Spinner_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23080/dijit/trunk/tests/form/robot/Spinner_a11y.html
+END

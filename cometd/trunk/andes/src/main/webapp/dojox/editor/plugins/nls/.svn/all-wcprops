@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/24065/dojox/trunk/editor/plugins/nls
+END
+Breadcrumb.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/20773/dojox/trunk/editor/plugins/nls/Breadcrumb.js
+END
+TableDialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/23681/dojox/trunk/editor/plugins/nls/TableDialog.js
+END
+Blockquote.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/21376/dojox/trunk/editor/plugins/nls/Blockquote.js
+END
+SafePaste.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/24014/dojox/trunk/editor/plugins/nls/SafePaste.js
+END
+CollapsibleToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/21054/dojox/trunk/editor/plugins/nls/CollapsibleToolbar.js
+END
+latinEntities.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/20407/dojox/trunk/editor/plugins/nls/latinEntities.js
+END
+FindReplace.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/21774/dojox/trunk/editor/plugins/nls/FindReplace.js
+END
+SpellCheck.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23205/dojox/trunk/editor/plugins/nls/SpellCheck.js
+END
+Preview.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/20058/dojox/trunk/editor/plugins/nls/Preview.js
+END
+PageBreak.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/20024/dojox/trunk/editor/plugins/nls/PageBreak.js
+END
+TextColor.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/21884/dojox/trunk/editor/plugins/nls/TextColor.js
+END
+ShowBlockNodes.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/20025/dojox/trunk/editor/plugins/nls/ShowBlockNodes.js
+END
+AutoSave.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23205/dojox/trunk/editor/plugins/nls/AutoSave.js
+END
+PasteFromWord.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/21396/dojox/trunk/editor/plugins/nls/PasteFromWord.js
+END
+LocalImage.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23205/dojox/trunk/editor/plugins/nls/LocalImage.js
+END
+Save.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/20095/dojox/trunk/editor/plugins/nls/Save.js
+END
+InsertAnchor.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/21420/dojox/trunk/editor/plugins/nls/InsertAnchor.js
+END
+InsertEntity.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/20186/dojox/trunk/editor/plugins/nls/InsertEntity.js
+END
+Smiley.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/nls/Smiley.js
+END

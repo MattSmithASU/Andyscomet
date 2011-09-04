@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/src/!svn/ver/23940/dijit/trunk/bench
+END
+benchTool.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23588/dijit/trunk/bench/benchTool.html
+END
+widget_construction_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23940/dijit/trunk/bench/widget_construction_test.php
+END
+benchReceive.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/20570/dijit/trunk/bench/benchReceive.php
+END
+create_widgets.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/17559/dijit/trunk/bench/create_widgets.html
+END
+test_button-results.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/15374/dijit/trunk/bench/test_button-results.html
+END
+button.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/20570/dijit/trunk/bench/button.html
+END

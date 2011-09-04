@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/24263/dojox/trunk/mobile/themes/common/transitions
+END
+dissolve.css
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/dissolve.css
+END
+flip.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/flip.css
+END
+flip2.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/flip2.css
+END
+cover.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/cover.css
+END
+reveal.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/reveal.css
+END
+fade.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/fade.css
+END
+slide.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/slide.css
+END
+swirl.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/swirl.css
+END
+coverv.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/coverv.css
+END
+slidev.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/24260/dojox/trunk/mobile/themes/common/transitions/slidev.css
+END

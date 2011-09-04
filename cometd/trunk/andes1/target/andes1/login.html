@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+    <title>Andes Login</title>
+	<style>
+		label, input{
+			display:block;
+			width:250px;
+		}
+		label{
+			margin-top:15px;
+		}
+		.loginbox{
+			width:400px;
+			height:auto;
+			padding:0 10px 20px 10px;
+			border:1px solid #ccc;
+			margin:10px auto;
+		}
+		h1{
+			text-align:center;
+		}
+	</style>
+	<script>
+		doSubmit = function(){
+			var u = document.getElementById("user").value;
+			if(! u){
+			  alert("Please enter a user name.");
+			  form.user.focus();
+			  return;
+}
+			var p = document.getElementById("problem").value;
+			var s = document.getElementById("section").value;
+			var e = document.getElementById("extra").value;
+			document.location.href = "index.html?s="+s+"&u="+u+"&p="+p+"&e="+e;
+		}
+	</script>
+</head>
+
+<body>
+	<h1>Andes Login</h1>
+	<div class="loginbox">
+		<label>section:</label>
+		<input type="text" id="section" value="54321" size="6"/>
+		<label>user:</label>
+		<input type="text" id="user" size="6"/>
+		<label>Andes problem: </label> 
+		<input type="text" id="problem" value="vec1ay" size="6"/>
+       <p>Try <var>vec1ay</var>, <var>vec1a</var>, <var>kt1a</var>, 
+       <var>s2e</var>.&nbsp;  See the 
+       <a href="http://www.andestutor.org/sets/">
+       Problem Chooser</a> for more choices.</p>
+	   	<label>extra:</label>
+		<input type="text" id="extra" /><br />
+		<button onClick="doSubmit(); return false;">Submit</button>
+	</div>
+	
+</body>
+</html>

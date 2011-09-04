@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/src/!svn/ver/24204/dijit/trunk/_base
+END
+_waiMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/24035/dijit/trunk/_base/_waiMixin.js
+END
+place.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23931/dijit/trunk/_base/place.js
+END
+sniff.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23033/dijit/trunk/_base/sniff.js
+END
+window.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23033/dijit/trunk/_base/window.js
+END
+manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23560/dijit/trunk/_base/manager.js
+END
+scroll.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23033/dijit/trunk/_base/scroll.js
+END
+focus.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/24121/dijit/trunk/_base/focus.js
+END
+typematic.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23033/dijit/trunk/_base/typematic.js
+END
+wai.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/24035/dijit/trunk/_base/wai.js
+END
+popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/24204/dijit/trunk/_base/popup.js
+END

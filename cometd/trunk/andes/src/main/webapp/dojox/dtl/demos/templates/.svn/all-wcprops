@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/17242/dojox/trunk/dtl/demos/templates
+END
+blog_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/17242/dojox/trunk/dtl/demos/templates/blog_base.html
+END
+blog_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/12388/dojox/trunk/dtl/demos/templates/blog_list.html
+END
+animation.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/16679/dojox/trunk/dtl/demos/templates/animation.html
+END
+blog_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/17242/dojox/trunk/dtl/demos/templates/blog_page.html
+END
+gallery.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/16537/dojox/trunk/dtl/demos/templates/gallery.html
+END
+nodelist.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/15375/dojox/trunk/dtl/demos/templates/nodelist.html
+END
+blog_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/11260/dojox/trunk/dtl/demos/templates/blog_detail.html
+END

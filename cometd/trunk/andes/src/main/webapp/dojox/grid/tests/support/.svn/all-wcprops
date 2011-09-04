@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23844/dojox/trunk/grid/tests/support
+END
+data.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/11257/dojox/trunk/grid/tests/support/data.php
+END
+json.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/12642/dojox/trunk/grid/tests/support/json.php
+END
+testtbl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/21880/dojox/trunk/grid/tests/support/testtbl.sql
+END
+yahoo_search.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23844/dojox/trunk/grid/tests/support/yahoo_search.js
+END
+test_data_date.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23844/dojox/trunk/grid/tests/support/test_data_date.js
+END
+test_resize_data.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/20910/dojox/trunk/grid/tests/support/test_resize_data.json
+END
+numbers.json
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/20910/dojox/trunk/grid/tests/support/numbers.json
+END
+test_data.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23844/dojox/trunk/grid/tests/support/test_data.js
+END
+geography.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/12038/dojox/trunk/grid/tests/support/geography.xml
+END
+countryStore.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/20910/dojox/trunk/grid/tests/support/countryStore.json
+END
+gamedata.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/20910/dojox/trunk/grid/tests/support/gamedata.json
+END
+books.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/12038/dojox/trunk/grid/tests/support/books.xml
+END
+movies.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/11257/dojox/trunk/grid/tests/support/movies.csv
+END

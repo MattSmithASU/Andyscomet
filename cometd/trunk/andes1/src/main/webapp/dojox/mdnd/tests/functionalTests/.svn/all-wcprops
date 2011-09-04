@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests
+END
+test_dnd_dndToDojo_dndFromDojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_dndToDojo_dndFromDojo.html
+END
+test_dnd_defaultDropMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_defaultDropMode.html
+END
+test_dnd_stress.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_stress.html
+END
+test_dnd_verticalDropMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_verticalDropMode.html
+END
+test_dnd_dndToDojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_dndToDojo.html
+END
+test_dnd_dndFromDojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_dndFromDojo.html
+END
+test_dnd_overDropMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_overDropMode.html
+END
+test_dnd_acceptance.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_acceptance.html
+END
+test_dnd_autoScroll.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/22174/dojox/trunk/mdnd/tests/functionalTests/test_dnd_autoScroll.html
+END

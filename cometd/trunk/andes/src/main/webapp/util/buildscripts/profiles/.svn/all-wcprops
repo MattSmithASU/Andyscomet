@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23847/util/trunk/buildscripts/profiles
+END
+standardCustomBase.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/20952/util/trunk/buildscripts/profiles/standardCustomBase.profile.js
+END
+mobile.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/23762/util/trunk/buildscripts/profiles/mobile.profile.js
+END
+base.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/8788/util/trunk/buildscripts/profiles/base.profile.js
+END
+cometd.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/11116/util/trunk/buildscripts/profiles/cometd.profile.js
+END
+dtkapi.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/14002/util/trunk/buildscripts/profiles/dtkapi.profile.js
+END
+demos-all.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/23847/util/trunk/buildscripts/profiles/demos-all.profile.js
+END
+fx.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/15376/util/trunk/buildscripts/profiles/fx.profile.js
+END
+mobile-all.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/23824/util/trunk/buildscripts/profiles/mobile-all.profile.js
+END
+baseplus.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/23847/util/trunk/buildscripts/profiles/baseplus.profile.js
+END
+layers.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/14003/util/trunk/buildscripts/profiles/layers.profile.js
+END
+rhino.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23847/util/trunk/buildscripts/profiles/rhino.profile.js
+END
+sql.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/15376/util/trunk/buildscripts/profiles/sql.profile.js
+END
+standard.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/23847/util/trunk/buildscripts/profiles/standard.profile.js
+END
+storage.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/15376/util/trunk/buildscripts/profiles/storage.profile.js
+END

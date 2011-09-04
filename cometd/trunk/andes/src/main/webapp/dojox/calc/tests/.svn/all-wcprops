@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/22951/dojox/trunk/calc/tests
+END
+test_Executor.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22951/dojox/trunk/calc/tests/test_Executor.html
+END
+test_Standard.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22729/dojox/trunk/calc/tests/test_Standard.html
+END
+test_GraphPro.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22729/dojox/trunk/calc/tests/test_GraphPro.html
+END

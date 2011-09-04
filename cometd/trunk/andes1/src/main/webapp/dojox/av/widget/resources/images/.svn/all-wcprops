@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images
+END
+player_sprite.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images/player_sprite.png
+END
+dojoPlayerIcons.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images/dojoPlayerIcons.png
+END
+playerIcons
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images/playerIcons
+END
+sliderHandleSprite.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images/sliderHandleSprite.png
+END
+progressPositionBk.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images/progressPositionBk.png
+END
+progressLoadedBk.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images/progressLoadedBk.png
+END
+sliderHandleNorm.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images/sliderHandleNorm.png
+END
+sliderHandleOver.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/15127/dojox/trunk/av/widget/resources/images/sliderHandleOver.png
+END

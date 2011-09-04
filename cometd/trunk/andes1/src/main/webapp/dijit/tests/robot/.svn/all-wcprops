@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/24288/dijit/trunk/tests/robot
+END
+BgIframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23281/dijit/trunk/tests/robot/BgIframe.html
+END
+Menu_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23303/dijit/trunk/tests/robot/Menu_mouse.html
+END
+_Widget-ondijitclick_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/23155/dijit/trunk/tests/robot/_Widget-ondijitclick_a11y.html
+END
+TooltipDialog_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23865/dijit/trunk/tests/robot/TooltipDialog_mouse.html
+END
+TitlePane.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22727/dijit/trunk/tests/robot/TitlePane.html
+END
+Tooltip_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23612/dijit/trunk/tests/robot/Tooltip_a11y.html
+END
+Menu_iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22998/dijit/trunk/tests/robot/Menu_iframe.html
+END
+Dialog_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23560/dijit/trunk/tests/robot/Dialog_a11y.html
+END
+ColorPalette.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23971/dijit/trunk/tests/robot/ColorPalette.html
+END
+InlineEditBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/24187/dijit/trunk/tests/robot/InlineEditBox.html
+END
+_Widget-ondijitclick_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/20983/dijit/trunk/tests/robot/_Widget-ondijitclick_mouse.html
+END
+Menu_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22984/dijit/trunk/tests/robot/Menu_a11y.html
+END
+Tooltip_mouse_quirks.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23274/dijit/trunk/tests/robot/Tooltip_mouse_quirks.html
+END
+Toolbar.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/22521/dijit/trunk/tests/robot/Toolbar.html
+END
+Tooltip_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/20983/dijit/trunk/tests/robot/Tooltip_mouse.html
+END
+Calendar_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/24288/dijit/trunk/tests/robot/Calendar_a11y.html
+END
+TooltipDialog_a11y.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22234/dijit/trunk/tests/robot/TooltipDialog_a11y.html
+END
+Dialog_mouse.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23883/dijit/trunk/tests/robot/Dialog_mouse.html
+END
+Dialog_focusDestroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22997/dijit/trunk/tests/robot/Dialog_focusDestroy.html
+END
+_Widget-deferredConnect.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/20983/dijit/trunk/tests/robot/_Widget-deferredConnect.html
+END

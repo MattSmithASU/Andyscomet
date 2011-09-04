@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/src/!svn/ver/24238/dojo/trunk/data
+END
+ItemFileWriteStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23843/dojo/trunk/data/ItemFileWriteStore.js
+END
+ItemFileReadStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23843/dojo/trunk/data/ItemFileReadStore.js
+END
+ObjectStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/24238/dojo/trunk/data/ObjectStore.js
+END

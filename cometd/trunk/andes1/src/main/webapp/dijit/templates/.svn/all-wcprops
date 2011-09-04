@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/24125/dijit/trunk/templates
+END
+MenuItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/22802/dijit/trunk/templates/MenuItem.html
+END
+MenuSeparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/21634/dijit/trunk/templates/MenuSeparator.html
+END
+TitlePane.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/22802/dijit/trunk/templates/TitlePane.html
+END
+MenuBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/22802/dijit/trunk/templates/MenuBar.html
+END
+ProgressBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22802/dijit/trunk/templates/ProgressBar.html
+END
+CheckedMenuItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22802/dijit/trunk/templates/CheckedMenuItem.html
+END
+Tooltip.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23065/dijit/trunk/templates/Tooltip.html
+END
+TimePicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/22802/dijit/trunk/templates/TimePicker.html
+END
+ColorPalette.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23979/dijit/trunk/templates/ColorPalette.html
+END
+InlineEditBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23251/dijit/trunk/templates/InlineEditBox.html
+END
+Dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23488/dijit/trunk/templates/Dialog.html
+END
+Tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/22802/dijit/trunk/templates/Tree.html
+END
+Menu.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/22802/dijit/trunk/templates/Menu.html
+END
+TreeNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/22802/dijit/trunk/templates/TreeNode.html
+END
+MenuBarItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22802/dijit/trunk/templates/MenuBarItem.html
+END
+Calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/24125/dijit/trunk/templates/Calendar.html
+END
+TooltipDialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23488/dijit/trunk/templates/TooltipDialog.html
+END

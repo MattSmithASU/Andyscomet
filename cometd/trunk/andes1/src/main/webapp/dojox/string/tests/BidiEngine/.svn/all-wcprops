@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/24134/dojox/trunk/string/tests/BidiEngine
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/24133/dojox/trunk/string/tests/BidiEngine/module.js
+END
+BidiEngineTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/24134/dojox/trunk/string/tests/BidiEngine/BidiEngineTest.js
+END
+BidiEngineTestLayouts.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/24112/dojox/trunk/string/tests/BidiEngine/BidiEngineTestLayouts.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/24027/dojox/trunk/string/tests/BidiEngine/runTests.html
+END

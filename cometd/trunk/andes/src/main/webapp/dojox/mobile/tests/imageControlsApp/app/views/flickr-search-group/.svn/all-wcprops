@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/23208/dojox/trunk/mobile/tests/imageControlsApp/app/views/flickr-search-group
+END
+flickr-search-group-scene.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/!svn/ver/23208/dojox/trunk/mobile/tests/imageControlsApp/app/views/flickr-search-group/flickr-search-group-scene.html
+END
+rowTemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/!svn/ver/23208/dojox/trunk/mobile/tests/imageControlsApp/app/views/flickr-search-group/rowTemplate.html
+END
+emptyTemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/!svn/ver/23208/dojox/trunk/mobile/tests/imageControlsApp/app/views/flickr-search-group/emptyTemplate.html
+END

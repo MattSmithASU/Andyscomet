@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23844/dojox/trunk/secure/tests
+END
+bad.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/15375/dojox/trunk/secure/tests/bad.js
+END
+load.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/15375/dojox/trunk/secure/tests/load.html
+END
+good.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/15375/dojox/trunk/secure/tests/good.js
+END
+fromJson.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23844/dojox/trunk/secure/tests/fromJson.js
+END
+bad.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/15375/dojox/trunk/secure/tests/bad.html
+END
+sandbox.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23844/dojox/trunk/secure/tests/sandbox.js
+END
+DOM.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/secure/tests/DOM.js
+END
+good.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/15375/dojox/trunk/secure/tests/good.html
+END

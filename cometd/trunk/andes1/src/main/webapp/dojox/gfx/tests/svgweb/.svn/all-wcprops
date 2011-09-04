@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23724/dojox/trunk/gfx/tests/svgweb
+END
+test_fx.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_fx.html
+END
+test_group1.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_group1.html
+END
+test_fx_shapes.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_fx_shapes.html
+END
+sample.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/sample.html
+END
+test_text.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_text.html
+END
+test_destroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_destroy.html
+END
+test_gradient.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_gradient.html
+END
+test_utils.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_utils.html
+END
+test_textpath.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_textpath.html
+END
+test_resize.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_resize.html
+END
+test_image2.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_image2.html
+END
+test_vectortext_load.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_vectortext_load.html
+END
+test_image4.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_image4.html
+END
+test_setPath.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_setPath.html
+END
+test_transform.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_transform.html
+END
+test_pattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_pattern.html
+END
+test_group2.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_group2.html
+END
+test_tbbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_tbbox.html
+END
+test_bezier.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_bezier.html
+END
+test_poly.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_poly.html
+END
+test_gfx.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_gfx.html
+END
+test.roundrect.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test.roundrect.html
+END
+test_vectortext_draw.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_vectortext_draw.html
+END
+test_fill.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_fill.html
+END
+test_linearGradient.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_linearGradient.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23724/dojox/trunk/gfx/tests/svgweb/README
+END
+test_image1.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_image1.html
+END
+test_arc.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_arc.html
+END
+test_image3.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_image3.html
+END
+test_image5.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_image5.html
+END
+test_linestyle.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22174/dojox/trunk/gfx/tests/svgweb/test_linestyle.html
+END

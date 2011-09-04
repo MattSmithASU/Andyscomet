@@ -1,0 +1,311 @@
+@import url("../dojo/resources/dojo.css");
+@import url("../dijit/themes/dijit.css");
+@import url("../dijit/themes/tundra/layout/BorderContainer.css");
+@import url("../dijit/themes/tundra/layout/ContentPane.css");
+@import url("../dijit/themes/tundra/form/Button.css");
+@import url("../dijit/themes/tundra/Menu.css");
+@import url("../dijit/themes/tundra/Dialog.css");
+  /* For principles tree menu, could be loaded later */
+@import url("../dijit/themes/tundra/Tree.css");
+@import url("../dojox/layout/resources/ExpandoPane.css");
+@import url("../dojox/widget/UpgradeBar/UpgradeBar.css");
+@import url("../dojox/drawing/resources/drawing.css");
+@import url("../dojox/drawing/resources/toolbar.css");
+@import url("../dojox/drawing/resources/GreekPalette.css");
+
+html, body, #main{
+	width: 100%;	/* make the body expand to fill the visible window */
+	height: 100%;
+	overflow: hidden;	/* erase window level scrollbars */
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	font: 10pt Arial,Myriad,Tahoma,Verdana,sans-serif;
+}
+
+/*Probably left over junk but putting it here in case*/
+textarea{
+	position:absolute;
+	top:30px;
+	right:10px;
+	width:200px;
+	overflow:hidden;
+	z-index:10001;
+}
+
+#main{
+	padding-right:5px;
+}
+/* Border Container Color */
+.tundra .dijitSplitterV, .tundra .dijitGutterV,
+body, .tundra .dijitSplitter, #navMenu{
+	background:#CEE3EC;
+}
+
+/* Pane BK Color and Inset borders of Panes*/
+#toolPane, #helpPane, #drawingPane{
+	background:#FAFAFA;
+	border:1px solid;
+	border-color:#BBBBBB #E1E1E1 #FFFFFF #CCCCCC;
+}
+
+
+#drawingNode, #drawingPane{
+	cursor:crosshair;
+
+}
+#toolPane, #drawingPane{
+	overflow:hidden;
+}
+
+
+
+
+#splashOverlay{
+	position:absolute;
+	left:0;
+	top:0;
+	right:0;
+	bottom:0;
+	background:#fff;
+	z-index:100;
+}
+.dj_ie6 #splashOverlay{
+	width:100%;
+	height:100%;
+}
+
+/* layout */
+
+.tundra .dijitSplitterV, .tundra .dijitGutterV {
+	width:4px;
+}
+.tundra .dijitSplitter{
+	z-index:100;
+}
+
+#toolPane{
+	width:50px;
+	margin-left:5px;
+	margin-right:4px;
+}
+#drawingPane{
+	position:relative;
+}
+
+
+#helpPane{
+	width:200px;
+}
+#helpInputPane{
+	height:30px;
+}
+#helpPane .dojoxExpandoTitle{
+	background:#cee3ec;
+	position:relative;
+}
+#helpContentPane p{
+	margin:1em;
+}
+
+#helpContentPane p .comment{
+	color:#999;
+}
+
+#helpContentPane p .unparsed{
+	color:#e02020;
+}
+
+#helpContentPane a {
+	color:#01a1ff;
+}
+
+#helpContentPane a:hover {
+	color:#a65f00;
+	text-decoration:none;
+}
+
+#helpContentPane img.button {
+	vertical-align: middle;
+	width: 1.5em;
+}
+
+/* This should match "textMode.edit" and "text" in defaults.js */
+/* But, we will inherit the font size */
+#helpContentPane .text-box {
+	border-style:dashed;
+	border-width:1px;
+	padding:3px 1.5em 3px 3px;
+	white-space:nowrap;
+}
+
+#helpContentPane var {
+	font-style: italic;
+}
+
+#helpContentPane bf {
+	font-weight: bold;
+}
+
+#helpContentPane img.block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+#helpContentPane .text {
+	vertical-align: middle;
+	width: 1.5em;
+}
+
+#helpContentPane .meta-hint {
+	font-style: italic;
+}
+
+
+.dojoxExpandoClosed .dojoxExpandoIcon,
+.dojoxExpandoClosed .dojoxExpandoTitle{
+	display:none;
+}
+#helpPane .helpScore{
+	position:absolute;
+	right:5px;
+	top:5px;
+}
+.dj_ie #helpPane .helpScore{
+	right:25px;
+}
+
+.IEHelpIconFix{
+	float:none !important;
+	position:absolute;
+	left:10px;
+	top:5px;
+}
+.IEHelpTileFix{
+	float:none !important;
+	position:absolute;
+	left:30px;
+	top:5px;
+}
+
+#helpPaneOpenButton{
+	position:absolute;
+	right:0;
+	top:5px;
+	padding:3px;
+	cursor:pointer;
+	background:#cee3ec url("../dojox/drawing/resources/images/tool_icons.png") no-repeat -384px 0px ;
+	border:1px solid;
+	border-color:#fff #000 #bbb #ccc ;
+	border-right:none;
+	width:24px;
+	height:24px;
+}
+#widget_helpInput{
+	position:absolute;
+	left:5px;
+	bottom:5px;
+	right:50px;
+	width:auto;
+	height:20px;
+	line-height:20px;
+}
+#helpInputPane .dijitButtonNode{
+	margin:0;
+	position:absolute;
+	right:5px;
+	bottom:5px;
+}
+#footerPane{
+	height:5px;
+	margin-top:7px;
+}
+
+#navMenu{}
+#navMenu .dijitButtonNode{
+	padding:0 .2em .05em .2em;
+}
+.dj_webkit #navMenu .dijitButtonNode{
+	padding:.0 .4em .25em .4em;
+}
+.tundra .dijitMenu, .tundra .dijitMenuBar {
+	border:0;
+}
+
+#problemName {
+	padding:0 1em 0 1.25em;
+	font-size: larger;
+}
+
+#timer {
+	font-family: monospace;
+	position:absolute;
+	top:0px;
+	right:70px;
+	border:solid 1px #bbb;
+	background:#f0f0f0;
+	display:none;
+	padding:0px 3px 1px 3px;
+}
+
+#submitButton .dijitButtonText{
+	font-size:.8em;
+	padding:0;
+}
+
+#andesErrorDialog p{
+	margin-bottom:.5em;
+	margin-top:0;
+}
+#andesErrorDialog .errMsg{
+	padding:.75em;
+	font-size:.9em;
+	background-color:#E3E3E3;
+	font-family:monospace;
+}
+
+#andesErrorDialog .action{
+	margin-top:15px;
+}
+
+
+#andesErrorDialog_underlay{
+	background-color:#eef;
+}
+.andesButtonPage{
+	text-align:center;
+}
+#upgradeBar{
+	height:26px;
+}
+
+#optionsTable td.left{
+	text-align:right;
+	padding:0 13px 0 0;
+}
+
+#optionsTable td a {
+	display:block;
+	overflow:hidden;
+	width:15px;
+	height:15px;
+	margin:0 0 0 .3em;
+}
+#optionsTable .dijitSpinner{
+	/* Hack b/c other widgets in this theme have this margin*/
+	margin:0 .2em;
+}
+
+/* Percentage avoids the double scrollbar problem */
+div.tall {
+     height: 80%; overflow: auto;
+   }
+
+p.tall {
+    margin-top: 0.5ex;
+    margin-bottom: 0.5ex;
+    /* need to wrap text, match width of most labels */
+    width: 50ex;  
+}

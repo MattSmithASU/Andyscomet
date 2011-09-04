@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/src/!svn/ver/23843/dojo/trunk/_firebug
+END
+tab_rgt_norm.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/13468/dojo/trunk/_firebug/tab_rgt_norm.png
+END
+tab_rgt_over.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/13468/dojo/trunk/_firebug/tab_rgt_over.png
+END
+warningIcon.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/8784/dojo/trunk/_firebug/warningIcon.png
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/10232/dojo/trunk/_firebug/LICENSE
+END
+errorIcon.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/8784/dojo/trunk/_firebug/errorIcon.png
+END
+infoIcon.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/8784/dojo/trunk/_firebug/infoIcon.png
+END
+tab_lft_norm.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/13468/dojo/trunk/_firebug/tab_lft_norm.png
+END
+tab_lft_over.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/13468/dojo/trunk/_firebug/tab_lft_over.png
+END
+firebug.css
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/14330/dojo/trunk/_firebug/firebug.css
+END
+firebug.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23843/dojo/trunk/_firebug/firebug.js
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/24194/dojox/trunk/geo/charting/tests
+END
+test_maps.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/21932/dojox/trunk/geo/charting/tests/test_maps.html
+END
+test_mapWithLegend.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/21725/dojox/trunk/geo/charting/tests/test_mapWithLegend.html
+END
+test_mapWithCharting.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/24194/dojox/trunk/geo/charting/tests/test_mapWithCharting.html
+END

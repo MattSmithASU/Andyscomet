@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/23997/util/trunk/checkstyle
+END
+checkstyle.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/22180/util/trunk/checkstyle/checkstyle.bat
+END
+checkstyle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/20343/util/trunk/checkstyle/checkstyle.sh
+END
+checkstyleUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23847/util/trunk/checkstyle/checkstyleUtil.js
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/20604/util/trunk/checkstyle/readme.txt
+END
+checkstyle.php.rename.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/20595/util/trunk/checkstyle/checkstyle.php.rename.html
+END
+checkstyleReport.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23997/util/trunk/checkstyle/checkstyleReport.html
+END
+runCheckstyle.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23847/util/trunk/checkstyle/runCheckstyle.js
+END

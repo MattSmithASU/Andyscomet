@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/24006/util/trunk/buildscripts
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/24006/util/trunk/buildscripts/LICENSE
+END
+listProfileDeps.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/10629/util/trunk/buildscripts/listProfileDeps.js
+END
+copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23605/util/trunk/buildscripts/copyright.txt
+END
+clean_release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/17055/util/trunk/buildscripts/clean_release.sh
+END
+mk_branch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/17145/util/trunk/buildscripts/mk_branch.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/10878/util/trunk/buildscripts/README
+END
+cdnBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/21810/util/trunk/buildscripts/cdnBuild.sh
+END
+makeDojoJsWeb.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23847/util/trunk/buildscripts/makeDojoJsWeb.js
+END
+webbuild.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/7740/util/trunk/buildscripts/webbuild.html
+END
+cdnBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/21861/util/trunk/buildscripts/cdnBuild.txt
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/22180/util/trunk/buildscripts/build.bat
+END
+changeVersion.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/11528/util/trunk/buildscripts/changeVersion.js
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/16000/util/trunk/buildscripts/build.sh
+END
+build_release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23625/util/trunk/buildscripts/build_release.sh
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23847/util/trunk/buildscripts/build.js
+END
+build_notice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22310/util/trunk/buildscripts/build_notice.txt
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/src/!svn/ver/23207/dojo/trunk/tests/io
+END
+scriptLoad.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/20709/dojo/trunk/tests/io/scriptLoad.js
+END
+script.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/8492/dojo/trunk/tests/io/script.js
+END
+iframeResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/15373/dojo/trunk/tests/io/iframeResponse.xml
+END
+upload.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23207/dojo/trunk/tests/io/upload.cgi
+END
+iframeResponse.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/9163/dojo/trunk/tests/io/iframeResponse.html
+END
+scriptSimple.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/8492/dojo/trunk/tests/io/scriptSimple.js
+END
+scriptJsonp.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/12311/dojo/trunk/tests/io/scriptJsonp.js
+END
+iframeResponse.json.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/11906/dojo/trunk/tests/io/iframeResponse.json.html
+END
+iframeResponse.js.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/11906/dojo/trunk/tests/io/iframeResponse.js.html
+END
+iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/17371/dojo/trunk/tests/io/iframe.html
+END
+script.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/17445/dojo/trunk/tests/io/script.html
+END
+iframeResponse.text.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/11906/dojo/trunk/tests/io/iframeResponse.text.html
+END
+iframeUploadTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/9163/dojo/trunk/tests/io/iframeUploadTest.html
+END
+scriptTimeout.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/9960/dojo/trunk/tests/io/scriptTimeout.html
+END
+iframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/9152/dojo/trunk/tests/io/iframe.js
+END

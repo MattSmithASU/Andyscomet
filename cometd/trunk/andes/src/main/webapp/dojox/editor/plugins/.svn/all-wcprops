@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/24217/dojox/trunk/editor/plugins
+END
+PrettyPrint.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/PrettyPrint.js
+END
+NormalizeIndentOutdent.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/NormalizeIndentOutdent.js
+END
+Breadcrumb.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/Breadcrumb.js
+END
+StatusBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23993/dojox/trunk/editor/plugins/StatusBar.js
+END
+Blockquote.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/Blockquote.js
+END
+AutoUrlLink.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/AutoUrlLink.js
+END
+SafePaste.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/24014/dojox/trunk/editor/plugins/SafePaste.js
+END
+CollapsibleToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/CollapsibleToolbar.js
+END
+FindReplace.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/FindReplace.js
+END
+SpellCheck.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23993/dojox/trunk/editor/plugins/SpellCheck.js
+END
+ToolbarLineBreak.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23993/dojox/trunk/editor/plugins/ToolbarLineBreak.js
+END
+_SmileyPalette.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23993/dojox/trunk/editor/plugins/_SmileyPalette.js
+END
+NormalizeStyle.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/NormalizeStyle.js
+END
+PageBreak.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/PageBreak.js
+END
+Preview.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/24111/dojox/trunk/editor/plugins/Preview.js
+END
+TextColor.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/TextColor.js
+END
+ShowBlockNodes.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/ShowBlockNodes.js
+END
+AutoSave.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/AutoSave.js
+END
+ResizeTableColumn.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/ResizeTableColumn.js
+END
+UploadImage.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/UploadImage.js
+END
+TablePlugins.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/TablePlugins.js
+END
+_SpellCheckParser.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23205/dojox/trunk/editor/plugins/_SpellCheckParser.js
+END
+EntityPalette.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23169/dojox/trunk/editor/plugins/EntityPalette.js
+END
+PasteFromWord.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/24014/dojox/trunk/editor/plugins/PasteFromWord.js
+END
+LocalImage.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/24217/dojox/trunk/editor/plugins/LocalImage.js
+END
+Save.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23844/dojox/trunk/editor/plugins/Save.js
+END
+InsertAnchor.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/InsertAnchor.js
+END
+InsertEntity.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/InsertEntity.js
+END
+Smiley.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23997/dojox/trunk/editor/plugins/Smiley.js
+END

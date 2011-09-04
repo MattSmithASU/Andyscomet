@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/24226/dojo/trunk/tests/_base
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/19114/dojo/trunk/tests/_base/html.js
+END
+eventKeyPressRobot.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/18744/dojo/trunk/tests/_base/eventKeyPressRobot.html
+END
+scrollingQuirksIframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23193/dojo/trunk/tests/_base/scrollingQuirksIframe.html
+END
+xhtml.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/15411/dojo/trunk/tests/_base/xhtml.php
+END
+NodeList.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23032/dojo/trunk/tests/_base/NodeList.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23207/dojo/trunk/tests/_base/runTests.html
+END
+absQuirksIframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/20428/dojo/trunk/tests/_base/absQuirksIframe.html
+END
+scrollingIframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23843/dojo/trunk/tests/_base/scrollingIframe.js
+END
+html_isBodyLtr.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/20500/dojo/trunk/tests/_base/html_isBodyLtr.html
+END
+xhr.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/20392/dojo/trunk/tests/_base/xhr.html
+END
+query.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23032/dojo/trunk/tests/_base/query.html
+END
+html_docScroll.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/20500/dojo/trunk/tests/_base/html_docScroll.html
+END
+timeout.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/15373/dojo/trunk/tests/_base/timeout.php
+END
+xhr.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/8301/dojo/trunk/tests/_base/xhr.js
+END
+scrollingStrictIframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23193/dojo/trunk/tests/_base/scrollingStrictIframe.html
+END
+html_box_quirks.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/15373/dojo/trunk/tests/_base/html_box_quirks.html
+END
+html_box.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/15373/dojo/trunk/tests/_base/html_box.html
+END
+fx.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/22463/dojo/trunk/tests/_base/fx.html
+END
+html_element.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/16885/dojo/trunk/tests/_base/html_element.html
+END
+query.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23023/dojo/trunk/tests/_base/query.js
+END
+object.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/20340/dojo/trunk/tests/_base/object.js
+END
+window.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23843/dojo/trunk/tests/_base/window.js
+END
+html_id.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/17277/dojo/trunk/tests/_base/html_id.html
+END
+absQuirk.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/19516/dojo/trunk/tests/_base/absQuirk.html
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/24226/dojo/trunk/tests/_base/json.js
+END
+absStrictIframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/20428/dojo/trunk/tests/_base/absStrictIframe.html
+END
+fx.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/8732/dojo/trunk/tests/_base/fx.js
+END
+html_rtl.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23193/dojo/trunk/tests/_base/html_rtl.html
+END
+array.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23843/dojo/trunk/tests/_base/array.js
+END
+Color.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23843/dojo/trunk/tests/_base/Color.js
+END
+queryPortability.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/16228/dojo/trunk/tests/_base/queryPortability.html
+END
+Deferred.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/24037/dojo/trunk/tests/_base/Deferred.js
+END
+lang.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23843/dojo/trunk/tests/_base/lang.js
+END
+fx_delay.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/15373/dojo/trunk/tests/_base/fx_delay.html
+END
+xhr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/20355/dojo/trunk/tests/_base/xhr.xml
+END
+connect.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23843/dojo/trunk/tests/_base/connect.js
+END
+xhrDummyMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/15373/dojo/trunk/tests/_base/xhrDummyMethod.php
+END
+html_quirks.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/19516/dojo/trunk/tests/_base/html_quirks.html
+END
+html.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23193/dojo/trunk/tests/_base/html.html
+END
+abs.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/19516/dojo/trunk/tests/_base/abs.html
+END
+declare.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23843/dojo/trunk/tests/_base/declare.js
+END
+eventKeyPress.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/18744/dojo/trunk/tests/_base/eventKeyPress.html
+END

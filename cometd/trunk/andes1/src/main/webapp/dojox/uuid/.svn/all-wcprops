@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/src/!svn/ver/23844/dojox/trunk/uuid
+END
+Uuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23844/dojox/trunk/uuid/Uuid.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23844/dojox/trunk/uuid/_base.js
+END
+generateTimeBasedUuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23844/dojox/trunk/uuid/generateTimeBasedUuid.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/15319/dojox/trunk/uuid/README
+END
+generateRandomUuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23844/dojox/trunk/uuid/generateRandomUuid.js
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/16700/dojox/trunk/dtl/filter
+END
+strings.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/16700/dojox/trunk/dtl/filter/strings.js
+END
+misc.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/16700/dojox/trunk/dtl/filter/misc.js
+END
+logic.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/16700/dojox/trunk/dtl/filter/logic.js
+END
+htmlstrings.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/16700/dojox/trunk/dtl/filter/htmlstrings.js
+END
+lists.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/16700/dojox/trunk/dtl/filter/lists.js
+END
+dates.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/16700/dojox/trunk/dtl/filter/dates.js
+END
+integers.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/16700/dojox/trunk/dtl/filter/integers.js
+END

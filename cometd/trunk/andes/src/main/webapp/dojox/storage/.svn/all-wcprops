@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/src/!svn/ver/23844/dojox/trunk/storage
+END
+AirEncryptedLocalStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/23844/dojox/trunk/storage/AirEncryptedLocalStorageProvider.js
+END
+storage_dialog.swf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/14592/dojox/trunk/storage/storage_dialog.swf
+END
+storage_dialog.fla
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/14592/dojox/trunk/storage/storage_dialog.fla
+END
+CookieStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23350/dojox/trunk/storage/CookieStorageProvider.js
+END
+manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23569/dojox/trunk/storage/manager.js
+END
+AirFileStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/23844/dojox/trunk/storage/AirFileStorageProvider.js
+END
+AirDBStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23844/dojox/trunk/storage/AirDBStorageProvider.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23350/dojox/trunk/storage/README
+END
+Storage.swf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/15191/dojox/trunk/storage/Storage.swf
+END
+_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23350/dojox/trunk/storage/_common.js
+END
+LocalStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23350/dojox/trunk/storage/LocalStorageProvider.js
+END
+Provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/storage/Provider.js
+END
+Storage.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/20910/dojox/trunk/storage/Storage.as
+END
+FlashStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23844/dojox/trunk/storage/FlashStorageProvider.js
+END
+BehaviorStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23350/dojox/trunk/storage/BehaviorStorageProvider.js
+END
+buildFlashStorage.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/15375/dojox/trunk/storage/buildFlashStorage.sh
+END
+WhatWGStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23844/dojox/trunk/storage/WhatWGStorageProvider.js
+END
+GearsStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23844/dojox/trunk/storage/GearsStorageProvider.js
+END

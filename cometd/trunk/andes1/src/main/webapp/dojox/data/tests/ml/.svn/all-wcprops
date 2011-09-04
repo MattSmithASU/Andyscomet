@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/11938/dojox/trunk/data/tests/ml
+END
+divList.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/11938/dojox/trunk/data/tests/ml/divList.html
+END
+orderedList.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/11938/dojox/trunk/data/tests/ml/orderedList.html
+END
+test_HtmlTableStore_declaratively.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/10580/dojox/trunk/data/tests/ml/test_HtmlTableStore_declaratively.html
+END
+unorderedList.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/11938/dojox/trunk/data/tests/ml/unorderedList.html
+END
+table.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/11938/dojox/trunk/data/tests/ml/table.html
+END
+test_HtmlStore_declaratively.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/11938/dojox/trunk/data/tests/ml/test_HtmlStore_declaratively.html
+END
+test_HtmlStore_remote.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/11938/dojox/trunk/data/tests/ml/test_HtmlStore_remote.html
+END

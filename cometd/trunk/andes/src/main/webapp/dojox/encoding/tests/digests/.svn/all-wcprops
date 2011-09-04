@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23844/dojox/trunk/encoding/tests/digests
+END
+MD5.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23844/dojox/trunk/encoding/tests/digests/MD5.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/16011/dojox/trunk/encoding/tests/digests/_base.js
+END
+SHA1.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23844/dojox/trunk/encoding/tests/digests/SHA1.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/11776/dojox/trunk/encoding/tests/digests/runTests.html
+END

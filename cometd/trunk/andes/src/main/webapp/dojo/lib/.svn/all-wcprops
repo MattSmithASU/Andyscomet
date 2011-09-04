@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/src/!svn/ver/23949/dojo/trunk/lib
+END
+backCompat.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23949/dojo/trunk/lib/backCompat.js
+END
+main-browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23843/dojo/trunk/lib/main-browser.js
+END
+kernel.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23843/dojo/trunk/lib/kernel.js
+END

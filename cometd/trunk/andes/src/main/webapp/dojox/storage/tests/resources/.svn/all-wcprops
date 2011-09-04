@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/15443/dojox/trunk/storage/tests/resources
+END
+testXML.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/15375/dojox/trunk/storage/tests/resources/testXML.xml
+END
+testBook.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/15443/dojox/trunk/storage/tests/resources/testBook.txt
+END

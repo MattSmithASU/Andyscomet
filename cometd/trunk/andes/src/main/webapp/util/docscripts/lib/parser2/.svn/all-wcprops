@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23648/util/trunk/docscripts/lib/parser2
+END
+DojoCommentBlock.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/20365/util/trunk/docscripts/lib/parser2/DojoCommentBlock.php
+END
+Dojo.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/20369/util/trunk/docscripts/lib/parser2/Dojo.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/17394/util/trunk/docscripts/lib/parser2/Parser.php
+END
+JavaScriptSymbol.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/20299/util/trunk/docscripts/lib/parser2/JavaScriptSymbol.php
+END
+JavaScriptObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/17441/util/trunk/docscripts/lib/parser2/JavaScriptObject.php
+END
+JavaScriptString.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/16887/util/trunk/docscripts/lib/parser2/JavaScriptString.php
+END
+dojo2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23648/util/trunk/docscripts/lib/parser2/dojo2.inc
+END
+JavaScriptAssignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/17441/util/trunk/docscripts/lib/parser2/JavaScriptAssignment.php
+END
+Symbol.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/20883/util/trunk/docscripts/lib/parser2/Symbol.php
+END
+JavaScriptArray.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/21277/util/trunk/docscripts/lib/parser2/JavaScriptArray.php
+END
+JavaScriptOr.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/17394/util/trunk/docscripts/lib/parser2/JavaScriptOr.php
+END
+JavaScriptFunctionCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/17394/util/trunk/docscripts/lib/parser2/JavaScriptFunctionCall.php
+END
+Scope.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/17441/util/trunk/docscripts/lib/parser2/Scope.php
+END
+JavaScriptLanguage.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/17394/util/trunk/docscripts/lib/parser2/JavaScriptLanguage.php
+END
+JavaScriptTernary.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/17441/util/trunk/docscripts/lib/parser2/JavaScriptTernary.php
+END
+JavaScriptFunction.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/17441/util/trunk/docscripts/lib/parser2/JavaScriptFunction.php
+END
+JavaScriptVariable.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/17441/util/trunk/docscripts/lib/parser2/JavaScriptVariable.php
+END
+JavaScriptStatements.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/20132/util/trunk/docscripts/lib/parser2/JavaScriptStatements.php
+END
+JavaScriptNumber.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/16887/util/trunk/docscripts/lib/parser2/JavaScriptNumber.php
+END
+JavaScriptRegExp.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/16887/util/trunk/docscripts/lib/parser2/JavaScriptRegExp.php
+END
+Destructable.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/20343/util/trunk/docscripts/lib/parser2/Destructable.php
+END
+JavaScriptParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/17394/util/trunk/docscripts/lib/parser2/JavaScriptParser.php
+END
+JavaScriptLiteral.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/20132/util/trunk/docscripts/lib/parser2/JavaScriptLiteral.php
+END

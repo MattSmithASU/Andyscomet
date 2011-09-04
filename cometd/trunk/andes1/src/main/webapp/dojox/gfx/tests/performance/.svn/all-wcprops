@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/20492/dojox/trunk/gfx/tests/performance
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/17610/dojox/trunk/gfx/tests/performance/module.js
+END
+gfx_primitives.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/20492/dojox/trunk/gfx/tests/performance/gfx_primitives.html
+END
+gfx_scenes.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/20492/dojox/trunk/gfx/tests/performance/gfx_scenes.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/17610/dojox/trunk/gfx/tests/performance/runTests.html
+END
+gfx_fill.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/20492/dojox/trunk/gfx/tests/performance/gfx_fill.html
+END

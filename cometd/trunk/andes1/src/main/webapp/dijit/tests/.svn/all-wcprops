@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/src/!svn/ver/24311/dijit/trunk/tests
+END
+_Container.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23985/dijit/trunk/tests/_Container.html
+END
+_loadTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/24148/dijit/trunk/tests/_loadTest.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/20570/dijit/trunk/tests/runTests.html
+END
+_Widget-placeAt.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23460/dijit/trunk/tests/_Widget-placeAt.html
+END
+test_Tooltip.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23612/dijit/trunk/tests/test_Tooltip.html
+END
+_Widget-attr.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/24282/dijit/trunk/tests/_Widget-attr.html
+END
+test_ColorPalette_quirks.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/21099/dijit/trunk/tests/test_ColorPalette_quirks.html
+END
+test_ColorPalette.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23315/dijit/trunk/tests/test_ColorPalette.html
+END
+_testCommon.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23845/dijit/trunk/tests/_testCommon.js
+END
+Dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23571/dijit/trunk/tests/Dialog.html
+END
+Tooltip-placement.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23577/dijit/trunk/tests/Tooltip-placement.html
+END
+formAction.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/16762/dijit/trunk/tests/formAction.html
+END
+_Widget-subscribe.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23460/dijit/trunk/tests/_Widget-subscribe.html
+END
+test_Dialog_focusDestroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23315/dijit/trunk/tests/test_Dialog_focusDestroy.html
+END
+_Widget-connect-performance.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/23463/dijit/trunk/tests/_Widget-connect-performance.html
+END
+test_TooltipDialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23940/dijit/trunk/tests/test_TooltipDialog.html
+END
+_altCalendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23939/dijit/trunk/tests/_altCalendar.html
+END
+test_bgIframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23315/dijit/trunk/tests/test_bgIframe.html
+END
+infrastructure-module.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23940/dijit/trunk/tests/infrastructure-module.js
+END
+quirks.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/16803/dijit/trunk/tests/quirks.html
+END
+_Widget-lifecycle.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23476/dijit/trunk/tests/_Widget-lifecycle.html
+END
+loose.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/16803/dijit/trunk/tests/loose.html
+END
+_TemplatedMixin.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23946/dijit/trunk/tests/_TemplatedMixin.html
+END
+test_TitlePane.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23315/dijit/trunk/tests/test_TitlePane.html
+END
+test_Declaration.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23315/dijit/trunk/tests/test_Declaration.html
+END
+test_Menu_iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23940/dijit/trunk/tests/test_Menu_iframe.html
+END
+_Widget-ondijitclick.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23463/dijit/trunk/tests/_Widget-ondijitclick.html
+END
+_testMatrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23315/dijit/trunk/tests/_testMatrix.php
+END
+ProgressBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23460/dijit/trunk/tests/ProgressBar.html
+END
+test_InlineEditBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/24170/dijit/trunk/tests/test_InlineEditBox.html
+END
+_Templated-widgetsInTemplate1.x.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/24278/dijit/trunk/tests/_Templated-widgetsInTemplate1.x.html
+END
+_WidgetsInTemplateMixin.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/24278/dijit/trunk/tests/_WidgetsInTemplateMixin.html
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/24073/dijit/trunk/tests/module.js
+END
+test_Dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/24031/dijit/trunk/tests/test_Dialog.html
+END
+test_Toolbar.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23448/dijit/trunk/tests/test_Toolbar.html
+END
+NodeList-instantiate.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23460/dijit/trunk/tests/NodeList-instantiate.html
+END
+test_Menu.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23448/dijit/trunk/tests/test_Menu.html
+END
+Bidi.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23619/dijit/trunk/tests/Bidi.html
+END
+general-module.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23845/dijit/trunk/tests/general-module.js
+END
+strict.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/16803/dijit/trunk/tests/strict.html
+END
+test_Calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23315/dijit/trunk/tests/test_Calendar.html
+END
+helpers.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23881/dijit/trunk/tests/helpers.js
+END
+_Widget-deferredConnect.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23940/dijit/trunk/tests/_Widget-deferredConnect.html
+END
+test_Declaration_1.x.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23315/dijit/trunk/tests/test_Declaration_1.x.html
+END

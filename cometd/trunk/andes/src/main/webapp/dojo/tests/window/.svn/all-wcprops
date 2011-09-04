@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/24206/dojo/trunk/tests/window
+END
+test_scroll.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/24206/dojo/trunk/tests/window/test_scroll.html
+END
+viewportQuirks.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/21361/dojo/trunk/tests/window/viewportQuirks.html
+END
+viewport.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/21377/dojo/trunk/tests/window/viewport.html
+END
+test_scrollStrictDTD.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/21361/dojo/trunk/tests/window/test_scrollStrictDTD.html
+END
+test_scrollNoDTD.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/21361/dojo/trunk/tests/window/test_scrollNoDTD.html
+END

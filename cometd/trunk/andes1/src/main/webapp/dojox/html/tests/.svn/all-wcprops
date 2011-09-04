@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23997/dojox/trunk/html/tests
+END
+entities.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23844/dojox/trunk/html/tests/entities.js
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/20001/dojox/trunk/html/tests/module.js
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23844/dojox/trunk/html/tests/format.js
+END
+test_style-html.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22174/dojox/trunk/html/tests/test_style-html.html
+END
+test_styles.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/14465/dojox/trunk/html/tests/test_styles.html
+END
+test_metrics_getTextBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/22881/dojox/trunk/html/tests/test_metrics_getTextBox.html
+END
+test_ellipsis.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/17923/dojox/trunk/html/tests/test_ellipsis.html
+END
+test_themes.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23997/dojox/trunk/html/tests/test_themes.html
+END
+formatted.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/20001/dojox/trunk/html/tests/formatted.html
+END
+test_metrics.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/16924/dojox/trunk/html/tests/test_metrics.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/20001/dojox/trunk/html/tests/runTests.html
+END
+unformatted.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/20001/dojox/trunk/html/tests/unformatted.html
+END
+test_set.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/18623/dojox/trunk/html/tests/test_set.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/9850/dojox/trunk/layout/tests/images
+END
+dojoLogo.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/9660/dojox/trunk/layout/tests/images/dojoLogo.png
+END
+testImage.gif
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/9803/dojox/trunk/layout/tests/images/testImage.gif
+END
+blank.gif
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/9850/dojox/trunk/layout/tests/images/blank.gif
+END
+gridUnderlay.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/9660/dojox/trunk/layout/tests/images/gridUnderlay.png
+END

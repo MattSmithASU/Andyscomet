@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/17300/dojo/trunk/resources/images
+END
+dndMove.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/10234/dojo/trunk/resources/images/dndMove.png
+END
+dndNoCopy.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/17300/dojo/trunk/resources/images/dndNoCopy.png
+END
+dndCopy.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/10234/dojo/trunk/resources/images/dndCopy.png
+END
+dndNoMove.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/17300/dojo/trunk/resources/images/dndNoMove.png
+END

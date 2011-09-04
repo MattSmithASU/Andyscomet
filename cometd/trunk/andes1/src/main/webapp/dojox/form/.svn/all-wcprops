@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/src/!svn/ver/24248/dojox/trunk/form
+END
+_FormSelectWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/19071/dojox/trunk/form/_FormSelectWidget.js
+END
+FileInputBlind.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/20686/dojox/trunk/form/FileInputBlind.js
+END
+PasswordValidator.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23844/dojox/trunk/form/PasswordValidator.js
+END
+_SelectStackMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23844/dojox/trunk/form/_SelectStackMixin.js
+END
+Manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/24000/dojox/trunk/form/Manager.js
+END
+Uploader.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23951/dojox/trunk/form/Uploader.js
+END
+FileUploader.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/23951/dojox/trunk/form/FileUploader.js
+END
+BusyButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23997/dojox/trunk/form/BusyButton.js
+END
+DropDownStack.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/20139/dojox/trunk/form/DropDownStack.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/24024/dojox/trunk/form/README
+END
+MultiComboBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/24092/dojox/trunk/form/MultiComboBox.js
+END
+Rating.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23231/dojox/trunk/form/Rating.js
+END
+RadioStack.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/15375/dojox/trunk/form/RadioStack.js
+END
+_HasDropDown.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/19071/dojox/trunk/form/_HasDropDown.js
+END
+FileInputAuto.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23868/dojox/trunk/form/FileInputAuto.js
+END
+ListInput.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/24023/dojox/trunk/form/ListInput.js
+END
+FilePickerTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23844/dojox/trunk/form/FilePickerTextBox.js
+END
+DateTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23339/dojox/trunk/form/DateTextBox.js
+END
+DropDownSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/20139/dojox/trunk/form/DropDownSelect.js
+END
+TimeSpinner.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/form/TimeSpinner.js
+END
+FileInput.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23844/dojox/trunk/form/FileInput.js
+END
+RangeSlider.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/form/RangeSlider.js
+END
+CheckedMultiSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/24093/dojox/trunk/form/CheckedMultiSelect.js
+END

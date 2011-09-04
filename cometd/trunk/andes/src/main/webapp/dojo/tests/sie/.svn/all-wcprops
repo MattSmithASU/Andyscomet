@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/src/!svn/ver/23207/dojo/trunk/tests/sie
+END
+smoke.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23207/dojo/trunk/tests/sie/smoke.html
+END
+all.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23207/dojo/trunk/tests/sie/all.js
+END
+smoke-v15.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23207/dojo/trunk/tests/sie/smoke-v15.html
+END

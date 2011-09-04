@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/src/!svn/ver/24311/dijit/trunk
+END
+MenuBarItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23946/dijit/trunk/MenuBarItem.js
+END
+_Container.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23787/dijit/trunk/_Container.js
+END
+MenuItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/23988/dijit/trunk/MenuItem.js
+END
+MenuSeparator.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23947/dijit/trunk/MenuSeparator.js
+END
+MenuBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23143/dijit/trunk/MenuBar.js
+END
+Tooltip.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23947/dijit/trunk/Tooltip.js
+END
+CheckedMenuItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23191/dijit/trunk/CheckedMenuItem.js
+END
+PopupMenuBarItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23033/dijit/trunk/PopupMenuBarItem.js
+END
+Dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/24031/dijit/trunk/Dialog.js
+END
+_DialogMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23943/dijit/trunk/_DialogMixin.js
+END
+_BidiSupport.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/24278/dijit/trunk/_BidiSupport.js
+END
+DialogUnderlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23988/dijit/trunk/DialogUnderlay.js
+END
+dijit.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/src/!svn/ver/23947/dijit/trunk/dijit.js
+END
+Menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/src/!svn/ver/23947/dijit/trunk/Menu.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/src/!svn/ver/23603/dijit/trunk/LICENSE
+END
+PopupMenuItem.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23033/dijit/trunk/PopupMenuItem.js
+END
+_Calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23033/dijit/trunk/_Calendar.js
+END
+dijit-all.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23403/dijit/trunk/dijit-all.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/src/!svn/ver/23033/dijit/trunk/_base.js
+END
+Calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/24288/dijit/trunk/Calendar.js
+END
+TooltipDialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23947/dijit/trunk/TooltipDialog.js
+END
+robotx.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/23659/dijit/trunk/robotx.js
+END
+_WidgetBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/24282/dijit/trunk/_WidgetBase.js
+END
+_Templated.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/24230/dijit/trunk/_Templated.js
+END
+_Widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/24039/dijit/trunk/_Widget.js
+END
+_TemplatedMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/24257/dijit/trunk/_TemplatedMixin.js
+END
+ToolbarSeparator.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23947/dijit/trunk/ToolbarSeparator.js
+END
+robot.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/src/!svn/ver/23033/dijit/trunk/robot.js
+END
+Declaration.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23947/dijit/trunk/Declaration.js
+END
+TitlePane.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23988/dijit/trunk/TitlePane.js
+END
+Editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/24117/dijit/trunk/Editor.js
+END
+_HasDropDown.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/24167/dijit/trunk/_HasDropDown.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23653/dijit/trunk/package.json
+END
+ProgressBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23947/dijit/trunk/ProgressBar.js
+END
+_TimePicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23940/dijit/trunk/_TimePicker.js
+END
+_CssStateMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23743/dijit/trunk/_CssStateMixin.js
+END
+ColorPalette.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23979/dijit/trunk/ColorPalette.js
+END
+InlineEditBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/24170/dijit/trunk/InlineEditBox.js
+END
+_WidgetsInTemplateMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/24073/dijit/trunk/_WidgetsInTemplateMixin.js
+END
+_KeyNavContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/24102/dijit/trunk/_KeyNavContainer.js
+END
+Tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/src/!svn/ver/24104/dijit/trunk/Tree.js
+END
+_PaletteMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23979/dijit/trunk/_PaletteMixin.js
+END
+Toolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23947/dijit/trunk/Toolbar.js
+END
+_Contained.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23033/dijit/trunk/_Contained.js
+END

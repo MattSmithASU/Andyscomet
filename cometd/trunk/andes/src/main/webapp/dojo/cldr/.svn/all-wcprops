@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/src/!svn/ver/23843/dojo/trunk/cldr
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/10843/dojo/trunk/cldr/LICENSE
+END
+supplemental.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23096/dojo/trunk/cldr/supplemental.js
+END
+monetary.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23032/dojo/trunk/cldr/monetary.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/8815/dojo/trunk/cldr/README
+END

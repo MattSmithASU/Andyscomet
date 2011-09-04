@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23847/util/trunk/buildscripts/tests
+END
+conditionalTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/10411/util/trunk/buildscripts/tests/conditionalTest.txt
+END
+conditionalTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23847/util/trunk/buildscripts/tests/conditionalTest.js
+END

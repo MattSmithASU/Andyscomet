@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23844/dojox/trunk/jsonPath/tests
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/15375/dojox/trunk/jsonPath/tests/module.js
+END
+jsonPath.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23844/dojox/trunk/jsonPath/tests/jsonPath.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/15375/dojox/trunk/jsonPath/tests/runTests.html
+END

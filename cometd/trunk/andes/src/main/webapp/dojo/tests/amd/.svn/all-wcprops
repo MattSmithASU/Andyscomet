@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/src/!svn/ver/23843/dojo/trunk/tests/amd
+END
+backCompat.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23843/dojo/trunk/tests/amd/backCompat.js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/23655/dojo/trunk/tests/amd/main.js
+END
+smoke-bdLoad.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23702/dojo/trunk/tests/amd/smoke-bdLoad.html
+END
+text.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23653/dojo/trunk/tests/amd/text.html
+END
+smoke-requirejs.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23742/dojo/trunk/tests/amd/smoke-requirejs.html
+END
+smoke.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23702/dojo/trunk/tests/amd/smoke.txt
+END

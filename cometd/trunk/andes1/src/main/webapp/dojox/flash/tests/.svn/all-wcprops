@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/23844/dojox/trunk/flash/tests
+END
+TestFlash.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/20910/dojox/trunk/flash/tests/TestFlash.as
+END
+test_flash.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/15375/dojox/trunk/flash/tests/test_flash.html
+END
+buildFlashTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/15375/dojox/trunk/flash/tests/buildFlashTest.sh
+END
+test_flash.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23844/dojox/trunk/flash/tests/test_flash.js
+END
+TestFlash.swf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/15187/dojox/trunk/flash/tests/TestFlash.swf
+END

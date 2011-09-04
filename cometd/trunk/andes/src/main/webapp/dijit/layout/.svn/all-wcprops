@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/src/!svn/ver/24287/dijit/trunk/layout
+END
+AccordionContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/24073/dijit/trunk/layout/AccordionContainer.js
+END
+_ContentPaneResizeMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/23984/dijit/trunk/layout/_ContentPaneResizeMixin.js
+END
+AccordionPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23033/dijit/trunk/layout/AccordionPane.js
+END
+StackContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23940/dijit/trunk/layout/StackContainer.js
+END
+StackController.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/24073/dijit/trunk/layout/StackController.js
+END
+TabContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/24073/dijit/trunk/layout/TabContainer.js
+END
+TabController.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/24073/dijit/trunk/layout/TabController.js
+END
+ContentPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/24073/dijit/trunk/layout/ContentPane.js
+END
+BorderContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23947/dijit/trunk/layout/BorderContainer.js
+END
+LayoutContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23033/dijit/trunk/layout/LayoutContainer.js
+END
+_LayoutWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/24098/dijit/trunk/layout/_LayoutWidget.js
+END
+ScrollingTabController.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/24098/dijit/trunk/layout/ScrollingTabController.js
+END
+SplitContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23033/dijit/trunk/layout/SplitContainer.js
+END
+LinkPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23947/dijit/trunk/layout/LinkPane.js
+END
+_TabContainerBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23947/dijit/trunk/layout/_TabContainerBase.js
+END

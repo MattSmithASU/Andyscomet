@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/24235/dijit/trunk/form/templates
+END
+HorizontalSlider.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22802/dijit/trunk/form/templates/HorizontalSlider.html
+END
+VerticalSlider.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23099/dijit/trunk/form/templates/VerticalSlider.html
+END
+TextBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22802/dijit/trunk/form/templates/TextBox.html
+END
+Spinner.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22802/dijit/trunk/form/templates/Spinner.html
+END
+Select.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22802/dijit/trunk/form/templates/Select.html
+END
+DropDownBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23413/dijit/trunk/form/templates/DropDownBox.html
+END
+CheckBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22802/dijit/trunk/form/templates/CheckBox.html
+END
+DropDownButton.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/24235/dijit/trunk/form/templates/DropDownButton.html
+END
+ValidationTextBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/22802/dijit/trunk/form/templates/ValidationTextBox.html
+END
+Button.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/24235/dijit/trunk/form/templates/Button.html
+END
+ComboButton.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23980/dijit/trunk/form/templates/ComboButton.html
+END

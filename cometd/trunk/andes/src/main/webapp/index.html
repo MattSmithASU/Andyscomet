@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <!-- work-around for IE 8 gfx text render bug -->
+    <!-- see http://www.andestutor.org/bugzilla/show_bug.cgi?id=1637 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+    <title>Andes Physics Tutor</title>
+	<script type="text/javascript">
+		djConfig = {
+			isDebug:true,
+			parseOnLoad:true,
+			popup:true
+		}
+		
+		if(djConfig.isDebug){
+			djConfig.modulePaths = {'andes':'../andes'};
+			document.write('<link href="css/andes.css" rel="stylesheet" />');
+			document.write('<scr'+'ipt src="dojo/dojo.js"></scr'+'ipt>');
+		}else{
+			djConfig.modulePaths = {'andes':'../andes'};
+			document.write('<link href="release/dojo/css/andes.css" rel="stylesheet" />');
+			document.write('<scr'+'ipt src="release/dojo/dojo/dojo.js.uncompressed.js"></scr'+'ipt>');
+		}
+	</script>
+	<script type="text/javascript">
+		dojo.require("andes.profile");
+		function getUrlVars() {
+			var vars = {};
+			var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) { vars[key] = value;});
+			return vars;
+		}
+	</script>
+	<script type="text/javascript">
+		if(getUrlVars()["u"] == null || getUrlVars()["s"] == null || getUrlVars()["p"] == null)
+		{
+			alert("Please fill in your Section, Username, and Problem before logging in");
+			window.location = "login.html";
+		}
+	</script>
+</head>
+<body class="tundra">
+    <div id="splashOverlay"></div>
+    <div id="conEdit" contenteditable="true"></div>
+    <div id="main" dojoType="dijit.layout.BorderContainer" gutters="false">
+	<div dojoType="dijit.MenuBar" id="navMenu" region="top" splitter="false">
+	    <span id="problemName" class="dijitMenuItem dijitMenuItemLabel">Problem</span>
+	    <div dojoType="dijit.PopupMenuBarItem">
+		<span>Edit</span>
+		<div dojoType="dijit.Menu" id="menuEdit">
+		    <div id="menuOptions" dojoType="dijit.MenuItem">Options</div>
+		</div>
+	    </div>
+	    <div dojoType="dijit.PopupMenuBarItem">
+		<span>Physics</span>
+		<div dojoType="dijit.Menu" id="menuPhysics">
+		    <div id="menuPrinciples" dojoType="dijit.MenuItem">Principles</div>
+		    <div id="menuQuantities" dojoType="dijit.MenuItem">Quantities</div>
+		    <div id="menuUnits" dojoType="dijit.MenuItem">Units</div>
+		    <div id="menuConstants" dojoType="dijit.MenuItem">Constants</div>
+		</div>
+	    </div>
+
+
+	    <div dojoType="dijit.PopupMenuBarItem">
+		<span>Help</span>
+		<div dojoType="dijit.Menu" id="menuHelp">
+		    <div id="menuIntroText" dojoType="dijit.MenuItem">Introduction</div>
+		    <div id="menuIntroVideo" dojoType="dijit.MenuItem">Intro Video</div>
+		    <div id="menuIntroSlides" dojoType="dijit.MenuItem">Slide show</div>
+		    <div id="menuManual" dojoType="dijit.MenuItem">Manual</div>
+		</div>
+	    </div>
+	    <div id="timer"></div>
+	    <div dojoType="dijit.form.Button" id="submitButton" style="position:absolute; top:0; right:10px; margin:0;">Submit</div>
+	</div>
+	
+	<div id="toolPane" dojoType="dijit.layout.ContentPane" region="left" splitter="false">
+	    <div dojoType="dojox.drawing.ui.Toolbar" id="gfxToolbarNode" drawingId="drawing" class="gfxToolbar" orient="V" tools="line,rect,ellipse,textBlock,equation,vector,axes" plugs="all" selected=""></div>
+	</div>
+	<div id="drawingPane" dojoType="dijit.layout.ContentPane" region="center" >
+	    <div dojoType="dojox.drawing.Drawing" id="drawing" jsId="myDrawing" class="drawing" defaults="andes.defaults">
+	    </div>
+	</div>
+		
+	<div id="helpPane" dojoType="andes.widget.ExpandoPane" region="right" splitter="true" title="Tutor" startExpanded="false">
+	    <div id="helpWrapPane" dojoType="dijit.layout.BorderContainer" gutters="false">
+		<div id="helpContentPane" dojoType="dijit.layout.ContentPane" region="center"></div>
+
+		<div id="helpInputPane" dojoType="dijit.layout.ContentPane" region="bottom">
+		    <div dojoType="dijit.form.TextBox" id="helpInput"></div>
+		    <div dojoType="dijit.form.Button" id="helpSubmit">Hint</div>
+		</div>
+	    </div>
+	</div>
+
+	<div id="footerPane" dojoType="dijit.layout.ContentPane" region="bottom"></div>
+    </div>
+    
+    <div dojoType="dojox.widget.UpgradeBar" id="upgradeBar">
+	<div validate="dojo.isIE<7">
+	    <span>There may be performance problems with IE 6.0. An upgrade is recommended.</span>
+	    <a href="http://www.mozilla.com/firefox/">Download Firefox</a>	
+	</div>
+    </div>
+
+    <!-- Principles menus constructed last -->
+    <div id="majorPrinciples" dojoType="dijit.Dialog" title="Major Principles">
+	<div id="majorModalTreeText"></div>
+	<div id="majorModalTree" class="tall">
+	    Loading list of major Principles
+	</div>
+    </div>
+    
+    <div id="allPrinciples" dojoType="dijit.Dialog" title="Principles">
+	<div id="allModalTreeText"></div>
+	<div id="allModalTree" class="tall">
+	    Loading list of all Principles
+	</div>
+    </div>
+    
+    <div id="options" dojoType="dijit.Dialog" title="Options">
+	<table id="optionsTable">
+	    <tr>
+		<td class="left">AngleSnap:</td>
+		<td><input dojoType="dijit.form.NumberSpinner" value="360" smallDelta="1" constraints="{min:1,max:360}" intermediateChanges="true" style="width:63px" id="optionsAngleSnap" name="angleSnap"/></td>
+	    </tr>
+	    <tr>
+		<td class="left">PowerPoint Style:</td>
+		<td><button dojoType="dijit.form.ToggleButton" checked="checked" iconClass="dijitCheckBoxIcon" id="optionsClickMode">Blip</button></td>
+	    </tr>
+	    <tr>
+		<td class="left">Correct:</td>
+		<td><a id="colorCorrect"> </a></td>
+	    </tr>
+	    <tr>
+		<td class="left">Incorrect:</td>
+		<td><a id="colorIncorrect"> </a></td>
+	    </tr>
+	    <tr>
+		<td class="left">Timer:</td>
+		<td><button dojoType="dijit.form.ToggleButton" iconClass="dijitCheckBoxIcon" id="showTimer">Blip</button></td>
+	    </tr>
+	</table>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+({"singleSort":"Jednoduché triedenie","indirectSelectionRadio":"Riadok ${0}, jednoduchý výber, prepínač","ascending":"Vzostupne","indirectSelectionCheckBox":"Riadok ${0}, viacnásobný výber, začiarkavacie políčko","selectAll":"Vybrať všetko","descending":"Zostupne","nestedSort":"Vnorené triedenie","unsorted":"Netriediť tento stĺpec","sortingState":"${0} - ${1}"})

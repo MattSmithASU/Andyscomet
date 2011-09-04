@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/src/!svn/ver/24038/dojox/trunk/rpc
+END
+JsonRest.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/24038/dojox/trunk/rpc/JsonRest.js
+END
+ProxiedPath.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23353/dojox/trunk/rpc/ProxiedPath.js
+END
+Rest.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/23844/dojox/trunk/rpc/Rest.js
+END
+Client.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/src/!svn/ver/23249/dojox/trunk/rpc/Client.js
+END
+JsonRPC.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23353/dojox/trunk/rpc/JsonRPC.js
+END
+OfflineRest.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23844/dojox/trunk/rpc/OfflineRest.js
+END
+Service.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/src/!svn/ver/23844/dojox/trunk/rpc/Service.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/18286/dojox/trunk/rpc/README
+END

@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores
+END
+OpenSearchStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/OpenSearchStore.js
+END
+geography_withspeciallabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/9016/dojox/trunk/data/tests/stores/geography_withspeciallabel.xml
+END
+CsvStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/CsvStore.js
+END
+geography.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/8672/dojox/trunk/data/tests/stores/geography.xml
+END
+XmlStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/XmlStore.js
+END
+GoogleSearchStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/GoogleSearchStore.js
+END
+WikipediaStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/15375/dojox/trunk/data/tests/stores/WikipediaStore.js
+END
+OpmlStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/OpmlStore.js
+END
+treeTestRoot
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/20621/dojox/trunk/data/tests/stores/treeTestRoot
+END
+QueryReadStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/15375/dojox/trunk/data/tests/stores/QueryReadStore.php
+END
+books_isbnAttr2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/8672/dojox/trunk/data/tests/stores/books_isbnAttr2.xml
+END
+properties.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/properties.js
+END
+AppStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/AppStore.js
+END
+CssRuleStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/CssRuleStore.js
+END
+opensearch_html.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/16001/dojox/trunk/data/tests/stores/opensearch_html.xml
+END
+cdf1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/20342/dojox/trunk/data/tests/stores/cdf1.xml
+END
+opensearch_rss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/16001/dojox/trunk/data/tests/stores/opensearch_rss.xml
+END
+atom1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/13026/dojox/trunk/data/tests/stores/atom1.xml
+END
+books.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/11938/dojox/trunk/data/tests/stores/books.html
+END
+AtomReadStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/13645/dojox/trunk/data/tests/stores/AtomReadStore.js
+END
+patterns.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/8672/dojox/trunk/data/tests/stores/patterns.csv
+END
+movies.csv
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/8672/dojox/trunk/data/tests/stores/movies.csv
+END
+books2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/18047/dojox/trunk/data/tests/stores/books2.xml
+END
+books3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/8672/dojox/trunk/data/tests/stores/books3.xml
+END
+JsonRestStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/JsonRestStore.js
+END
+opensearch_atom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/16001/dojox/trunk/data/tests/stores/opensearch_atom.xml
+END
+CssClassStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/CssClassStore.js
+END
+AndOrWriteStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/AndOrWriteStore.js
+END
+FileStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/FileStore.js
+END
+SnapLogicStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/SnapLogicStore.js
+END
+countries_withNull.json
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/20910/dojox/trunk/data/tests/stores/countries_withNull.json
+END
+books.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/8672/dojox/trunk/data/tests/stores/books.xml
+END
+movies2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/10443/dojox/trunk/data/tests/stores/movies2.csv
+END
+movies3.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/13788/dojox/trunk/data/tests/stores/movies3.csv
+END
+AndOrReadStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/AndOrReadStore.js
+END
+rss1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/16001/dojox/trunk/data/tests/stores/rss1.xml
+END
+ServiceStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/ServiceStore.js
+END
+PicasaStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/PicasaStore.js
+END
+QueryReadStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/QueryReadStore.js
+END
+pipeSeparatorInData.csv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/19807/dojox/trunk/data/tests/stores/pipeSeparatorInData.csv
+END
+booksWhitespace.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/20043/dojox/trunk/data/tests/stores/booksWhitespace.html
+END
+FlickrRestStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/FlickrRestStore.js
+END
+test_Tree_on_JsonRestStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/20634/dojox/trunk/data/tests/stores/test_Tree_on_JsonRestStore.html
+END
+books2.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/9363/dojox/trunk/data/tests/stores/books2.html
+END
+FlickrStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/FlickrStore.js
+END
+HtmlTableStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/HtmlTableStore.js
+END
+filestore_dojoxdatageo.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/21037/dojox/trunk/data/tests/stores/filestore_dojoxdatageo.php
+END
+snap_pipeline.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/21037/dojox/trunk/data/tests/stores/snap_pipeline.php
+END
+KeyValueStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/KeyValueStore.js
+END
+books3Whitespace.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/20948/dojox/trunk/data/tests/stores/books3Whitespace.html
+END
+filestore_funcs.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/17104/dojox/trunk/data/tests/stores/filestore_funcs.php
+END
+books_isbnAttr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/8672/dojox/trunk/data/tests/stores/books_isbnAttr.xml
+END
+countries.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/20910/dojox/trunk/data/tests/stores/countries.json
+END
+JsonQueryRestStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/JsonQueryRestStore.js
+END
+explore_ItemFileWriteStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/16886/dojox/trunk/data/tests/stores/explore_ItemFileWriteStore.html
+END
+test1.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/14207/dojox/trunk/data/tests/stores/test1.css
+END
+test2.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/14207/dojox/trunk/data/tests/stores/test2.css
+END
+GoogleFeedStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/16993/dojox/trunk/data/tests/stores/GoogleFeedStore.js
+END
+empty.csv
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/19924/dojox/trunk/data/tests/stores/empty.csv
+END
+HtmlStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23844/dojox/trunk/data/tests/stores/HtmlStore.js
+END
+books3.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/20043/dojox/trunk/data/tests/stores/books3.html
+END
+semicolonSeparator.csv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/19807/dojox/trunk/data/tests/stores/semicolonSeparator.csv
+END
+node1.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/20621/dojox/trunk/data/tests/stores/node1.1
+END
+node1.2
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/18287/dojox/trunk/data/tests/stores/node1.2
+END
+geography2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/17382/dojox/trunk/data/tests/stores/geography2.xml
+END
+pipeSeparator.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/19807/dojox/trunk/data/tests/stores/pipeSeparator.csv
+END
+cdata_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/14549/dojox/trunk/data/tests/stores/cdata_test.xml
+END

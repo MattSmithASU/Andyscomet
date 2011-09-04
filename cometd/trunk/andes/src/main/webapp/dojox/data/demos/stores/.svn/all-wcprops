@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/23844/dojox/trunk/data/demos/stores
+END
+filestore_dojoxdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/21037/dojox/trunk/data/demos/stores/filestore_dojoxdata.php
+END
+filestore_funcs.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/17104/dojox/trunk/data/demos/stores/filestore_funcs.php
+END
+LazyLoadJSIStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23844/dojox/trunk/data/demos/stores/LazyLoadJSIStore.js
+END
+filestore_dojotree.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/21037/dojox/trunk/data/demos/stores/filestore_dojotree.php
+END

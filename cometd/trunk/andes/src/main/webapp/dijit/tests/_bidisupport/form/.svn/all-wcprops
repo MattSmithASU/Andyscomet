@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/24278/dijit/trunk/tests/_BidiSupport/form
+END
+noTextDirTextWidgets.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/form/noTextDirTextWidgets.html
+END
+test_Textarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/form/test_Textarea.html
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/form/module.js
+END
+test_TextBoxes.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/form/test_TextBoxes.html
+END
+test_SimpleTextarea.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/form/test_SimpleTextarea.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/form/runTests.html
+END
+test_SimpleComboBoxes.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/form/test_SimpleComboBoxes.html
+END

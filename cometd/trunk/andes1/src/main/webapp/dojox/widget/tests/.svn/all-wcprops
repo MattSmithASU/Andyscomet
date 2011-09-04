@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23844/dojox/trunk/widget/tests
+END
+test_FilePicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/15375/dojox/trunk/widget/tests/test_FilePicker.html
+END
+demo_FisheyeLite.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/15375/dojox/trunk/widget/tests/demo_FisheyeLite.html
+END
+get_time.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/20342/dojox/trunk/widget/tests/get_time.php
+END
+test_BarGaugeWidget.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/16673/dojox/trunk/widget/tests/test_BarGaugeWidget.html
+END
+test_Toaster.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/20718/dojox/trunk/widget/tests/test_Toaster.html
+END
+test_PlaceholderMenuItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/22726/dojox/trunk/widget/tests/test_PlaceholderMenuItem.html
+END
+test_PortletInGridContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/23363/dojox/trunk/widget/tests/test_PortletInGridContainer.html
+END
+test_UpgradeBar_markup.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/20497/dojox/trunk/widget/tests/test_UpgradeBar_markup.html
+END
+test_DocTester.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/15375/dojox/trunk/widget/tests/test_DocTester.html
+END
+testAtom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/20342/dojox/trunk/widget/tests/testAtom.xml
+END
+test_Pager.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/15375/dojox/trunk/widget/tests/test_Pager.html
+END
+test_RotatorController.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/20910/dojox/trunk/widget/tests/test_RotatorController.html
+END
+test_TitleGroup.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22559/dojox/trunk/widget/tests/test_TitleGroup.html
+END
+test_DynamicTooltip.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23608/dojox/trunk/widget/tests/test_DynamicTooltip.html
+END
+test_Wizard.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22724/dojox/trunk/widget/tests/test_Wizard.html
+END
+test_Rotator_ThumbnailController.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/22174/dojox/trunk/widget/tests/test_Rotator_ThumbnailController.html
+END
+test_PortletInGridContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/23363/dojox/trunk/widget/tests/test_PortletInGridContainer.js
+END
+test_Standby_quirks.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23331/dojox/trunk/widget/tests/test_Standby_quirks.html
+END
+test_RollingList.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/20210/dojox/trunk/widget/tests/test_RollingList.html
+END
+honey.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/14605/dojox/trunk/widget/tests/honey.php
+END
+test_Loader.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/14605/dojox/trunk/widget/tests/test_Loader.html
+END
+withjs.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23725/dojox/trunk/widget/tests/withjs.html
+END
+test_AnalogGaugeWidget.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/16673/dojox/trunk/widget/tests/test_AnalogGaugeWidget.html
+END
+test_SortList.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/14840/dojox/trunk/widget/tests/test_SortList.html
+END
+test_AutoRotator.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/20910/dojox/trunk/widget/tests/test_AutoRotator.html
+END
+test_Standby_rtl.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23331/dojox/trunk/widget/tests/test_Standby_rtl.html
+END
+test_CalendarViews.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/17937/dojox/trunk/widget/tests/test_CalendarViews.html
+END
+test_FisheyeList.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/10336/dojox/trunk/widget/tests/test_FisheyeList.html
+END
+test_Iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/13665/dojox/trunk/widget/tests/test_Iterator.html
+END
+test_Portlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/20339/dojox/trunk/widget/tests/test_Portlet.html
+END
+test_PortletInGridContainerColumns.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/21950/dojox/trunk/widget/tests/test_PortletInGridContainerColumns.html
+END
+test_Rotator.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/21423/dojox/trunk/widget/tests/test_Rotator.html
+END
+demo_FisheyeList.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/12587/dojox/trunk/widget/tests/demo_FisheyeList.html
+END
+test_Roller.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/16150/dojox/trunk/widget/tests/test_Roller.html
+END
+test_Dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22560/dojox/trunk/widget/tests/test_Dialog.html
+END
+test_Standby.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/23331/dojox/trunk/widget/tests/test_Standby.html
+END
+test_DataPresentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/22725/dojox/trunk/widget/tests/test_DataPresentation.html
+END
+CalendarStackLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23844/dojox/trunk/widget/tests/CalendarStackLayout.js
+END
+test_Calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/16558/dojox/trunk/widget/tests/test_Calendar.html
+END
+test_FisheyeLite.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/17207/dojox/trunk/widget/tests/test_FisheyeLite.html
+END
+_pager-data.json
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/20910/dojox/trunk/widget/tests/_pager-data.json
+END
+test_ColorPicker.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/21910/dojox/trunk/widget/tests/test_ColorPicker.html
+END
+test_UpgradeBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/19541/dojox/trunk/widget/tests/test_UpgradeBar.html
+END

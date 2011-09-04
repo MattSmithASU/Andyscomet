@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23144/dojox/trunk/encoding/crypto
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23144/dojox/trunk/encoding/crypto/_base.js
+END
+RSAKey-ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23144/dojox/trunk/encoding/crypto/RSAKey-ext.js
+END
+Blowfish.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23144/dojox/trunk/encoding/crypto/Blowfish.js
+END
+RSAKey.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23144/dojox/trunk/encoding/crypto/RSAKey.js
+END
+SimpleAES.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23144/dojox/trunk/encoding/crypto/SimpleAES.js
+END

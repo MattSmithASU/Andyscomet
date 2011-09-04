@@ -1,0 +1,63 @@
+/*
+	Copyright (c) 2004-2011, The Dojo Foundation All Rights Reserved.
+	Available via Academic Free License >= 2.1 OR the modified BSD license.
+	see: http://dojotoolkit.org/license for details
+*/
+
+
+
+if (!dojo._hasResource["dojox.charting.scaler.common"]) {
+	dojo._hasResource["dojox.charting.scaler.common"] = true;
+	dojo.provide("dojox.charting.scaler.common");
+	(function () {
+		var eq = function (a, b) {
+			return Math.abs(a - b) <= 0.000001 * (Math.abs(a) + Math.abs(b));
+		};
+		dojo.mixin(dojox.charting.scaler.common, {findString:function (val, text) {
+			val = val.toLowerCase();
+			for (var i = 0; i < text.length; ++i) {
+				if (val == text[i]) {
+					return true;
+				}
+			}
+			return false;
+		}, getNumericLabel:function (number, precision, kwArgs) {
+			var def = "";
+			if (dojo.number) {
+				def = (kwArgs.fixed ? dojo.number.format(number, {places:precision < 0 ? -precision : 0}) : dojo.number.format(number)) || "";
+			} else {
+				def = kwArgs.fixed ? number.toFixed(precision < 0 ? -precision : 0) : number.toString();
+			}
+			if (kwArgs.labelFunc) {
+				var r = kwArgs.labelFunc(def, number, precision);
+				if (r) {
+					return r;
+				}
+			}
+			if (kwArgs.labels) {
+				var l = kwArgs.labels, lo = 0, hi = l.length;
+				while (lo < hi) {
+					var mid = Math.floor((lo + hi) / 2), val = l[mid].value;
+					if (val < number) {
+						lo = mid + 1;
+					} else {
+						hi = mid;
+					}
+				}
+				if (lo < l.length && eq(l[lo].value, number)) {
+					return l[lo].text;
+				}
+				--lo;
+				if (lo >= 0 && lo < l.length && eq(l[lo].value, number)) {
+					return l[lo].text;
+				}
+				lo += 2;
+				if (lo < l.length && eq(l[lo].value, number)) {
+					return l[lo].text;
+				}
+			}
+			return def;
+		}});
+	})();
+}
+

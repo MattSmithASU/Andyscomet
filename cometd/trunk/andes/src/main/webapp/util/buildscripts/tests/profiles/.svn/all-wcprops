@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/20952/util/trunk/buildscripts/tests/profiles
+END
+customBase.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/10391/util/trunk/buildscripts/tests/profiles/customBase.profile.js
+END
+nestedNls.profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/20952/util/trunk/buildscripts/tests/profiles/nestedNls.profile.js
+END

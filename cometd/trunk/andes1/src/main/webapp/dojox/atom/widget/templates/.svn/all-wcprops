@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/15805/dojox/trunk/atom/widget/templates
+END
+FeedEntryEditor.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/15805/dojox/trunk/atom/widget/templates/FeedEntryEditor.html
+END
+FeedViewerGrouping.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/15805/dojox/trunk/atom/widget/templates/FeedViewerGrouping.html
+END
+FeedViewer.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/15805/dojox/trunk/atom/widget/templates/FeedViewer.html
+END
+FeedEntryViewer.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/15805/dojox/trunk/atom/widget/templates/FeedEntryViewer.html
+END
+FeedViewerEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/15805/dojox/trunk/atom/widget/templates/FeedViewerEntry.html
+END
+EntryHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/15805/dojox/trunk/atom/widget/templates/EntryHeader.html
+END
+PeopleEditor.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/15805/dojox/trunk/atom/widget/templates/PeopleEditor.html
+END

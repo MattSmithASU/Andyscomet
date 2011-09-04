@@ -1,0 +1,337 @@
+10
+
+dir
+24327
+http://svn.dojotoolkit.org/src/dojo/trunk/cldr/nls
+http://svn.dojotoolkit.org/src
+
+
+
+2011-02-21T14:11:57.808275Z
+23843
+dante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+560b804f-0ae3-0310-86f3-f6aa0a117693
+
+da
+dir
+
+hebrew.js
+file
+
+
+
+
+2011-04-22T16:24:51.000000Z
+f323206b1386420380aea649ad0eba81
+2011-02-21T14:11:57.808275Z
+23843
+dante
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4338
+
+de
+dir
+
+sv
+dir
+
+gregorian.js
+file
+
+
+
+
+2011-04-22T16:24:51.000000Z
+4c877e195b3a31b16c7f2e8bb7b80668
+2011-02-21T14:11:57.808275Z
+23843
+dante
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4510
+
+ja
+dir
+
+he
+dir
+
+islamic.js
+file
+
+
+
+
+2011-04-22T16:24:51.000000Z
+7526146c22ce62dbb07e09b35a0dd370
+2011-02-21T14:11:57.808275Z
+23843
+dante
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4186
+
+fi
+dir
+
+nb
+dir
+
+fr
+dir
+
+nl
+dir
+
+pl
+dir
+
+th
+dir
+
+hu
+dir
+
+ro
+dir
+
+zh
+dir
+
+zh-hk
+dir
+
+buddhist.js
+file
+
+
+
+
+2011-04-22T16:24:51.000000Z
+cc448667d5aad89b1c3de83f25e2ccf7
+2011-02-21T14:11:57.808275Z
+23843
+dante
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3951
+
+en-ca
+dir
+
+ca
+dir
+
+pt
+dir
+
+tr
+dir
+
+ru
+dir
+
+en-gb
+dir
+
+fr-ch
+dir
+
+el
+dir
+
+en
+dir
+
+ar
+dir
+
+number.js
+file
+
+
+
+
+2011-04-22T16:24:51.000000Z
+2ee53c3df0322c2c5e7510254e57b620
+2011-02-21T14:11:57.808275Z
+23843
+dante
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1256
+
+pt-pt
+dir
+
+en-au
+dir
+
+cs
+dir
+
+currency.js
+file
+
+
+
+
+2011-04-22T16:24:51.000000Z
+9029b0e346e31abf006e2a6fc479005b
+2011-02-21T14:11:57.808275Z
+23843
+dante
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+673
+
+es
+dir
+
+zh-hant
+dir
+
+ko
+dir
+
+zh-tw
+dir
+
+it
+dir
+
+sk
+dir
+
+sl
+dir
+

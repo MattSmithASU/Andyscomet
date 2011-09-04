@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/src/!svn/ver/23844/dojox/trunk/xmpp
+END
+PresenceService.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/15904/dojox/trunk/xmpp/PresenceService.js
+END
+xmppSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/xmpp/xmppSession.js
+END
+bosh.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23844/dojox/trunk/xmpp/bosh.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23844/dojox/trunk/xmpp/util.js
+END
+RosterService.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/23844/dojox/trunk/xmpp/RosterService.js
+END
+UserService.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/xmpp/UserService.js
+END
+ChatService.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/xmpp/ChatService.js
+END
+TransportSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23844/dojox/trunk/xmpp/TransportSession.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/17306/dojox/trunk/xmpp/README
+END
+sasl.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/17552/dojox/trunk/xmpp/sasl.js
+END

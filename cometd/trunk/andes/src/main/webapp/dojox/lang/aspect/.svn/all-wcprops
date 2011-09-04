@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/15375/dojox/trunk/lang/aspect
+END
+memoizer.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/15375/dojox/trunk/lang/aspect/memoizer.js
+END
+cflow.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/15375/dojox/trunk/lang/aspect/cflow.js
+END
+memoizerGuard.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/15375/dojox/trunk/lang/aspect/memoizerGuard.js
+END
+counter.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/15375/dojox/trunk/lang/aspect/counter.js
+END
+timer.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/15375/dojox/trunk/lang/aspect/timer.js
+END
+tracer.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/15375/dojox/trunk/lang/aspect/tracer.js
+END
+profiler.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/15375/dojox/trunk/lang/aspect/profiler.js
+END

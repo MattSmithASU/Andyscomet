@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/23997/dojox/trunk/xml/tests
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/15951/dojox/trunk/xml/tests/module.js
+END
+myPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/14044/dojox/trunk/xml/tests/myPage.xml
+END
+widgetParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/14044/dojox/trunk/xml/tests/widgetParser.html
+END
+mail.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23997/dojox/trunk/xml/tests/mail.html
+END
+parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/xml/tests/parser.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/15951/dojox/trunk/xml/tests/runTests.html
+END

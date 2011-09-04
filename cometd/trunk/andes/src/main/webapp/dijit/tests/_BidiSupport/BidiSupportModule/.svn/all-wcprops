@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/BidiSupportModule
+END
+BidiSupportTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/BidiSupportModule/BidiSupportTest.js
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/BidiSupportModule/module.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/24073/dijit/trunk/tests/_BidiSupport/BidiSupportModule/runTests.html
+END

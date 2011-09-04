@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/src/!svn/ver/24209/dojox/trunk/gfx/tests
+END
+test_group1.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_group1.html
+END
+matrix.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/10109/dojox/trunk/gfx/tests/matrix.js
+END
+test_fx.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_fx.html
+END
+test_decompose.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/11370/dojox/trunk/gfx/tests/test_decompose.html
+END
+test_fx_shapes.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_fx_shapes.html
+END
+test_text.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_text.html
+END
+decompose.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23844/dojox/trunk/gfx/tests/decompose.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/10109/dojox/trunk/gfx/tests/runTests.html
+END
+test_destroy.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_destroy.html
+END
+test_gradient.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_gradient.html
+END
+test_utils.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_utils.html
+END
+test_resize.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_resize.html
+END
+test_textpath.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_textpath.html
+END
+test_image2.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_image2.html
+END
+test_image4.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_image4.html
+END
+test_vectortext_load.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_vectortext_load.html
+END
+test_setPath.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_setPath.html
+END
+test_transform.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_transform.html
+END
+test_pattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_pattern.html
+END
+test_group2.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/24209/dojox/trunk/gfx/tests/test_group2.html
+END
+test_tbbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_tbbox.html
+END
+test_bezier.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_bezier.html
+END
+test_poly.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_poly.html
+END
+test_vectortext_draw.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_vectortext_draw.html
+END
+test_gfx.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_gfx.html
+END
+test.roundrect.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test.roundrect.html
+END
+test_fill.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_fill.html
+END
+test_linearGradient.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_linearGradient.html
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/19953/dojox/trunk/gfx/tests/module.js
+END
+test_image1.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_image1.html
+END
+test_arc.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/14560/dojox/trunk/gfx/tests/test_arc.html
+END
+test_image3.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_image3.html
+END
+test_refproj.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_refproj.html
+END
+test_image5.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_image5.html
+END
+test_linestyle.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/23733/dojox/trunk/gfx/tests/test_linestyle.html
+END

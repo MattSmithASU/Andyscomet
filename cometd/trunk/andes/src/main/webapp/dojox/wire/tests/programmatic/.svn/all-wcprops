@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/10052/dojox/trunk/wire/tests/programmatic
+END
+TextAdapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/8675/dojox/trunk/wire/tests/programmatic/TextAdapter.js
+END
+Wire.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/10052/dojox/trunk/wire/tests/programmatic/Wire.js
+END
+XmlWire.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/8675/dojox/trunk/wire/tests/programmatic/XmlWire.js
+END
+TableAdapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/8675/dojox/trunk/wire/tests/programmatic/TableAdapter.js
+END
+CompositeWire.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/8675/dojox/trunk/wire/tests/programmatic/CompositeWire.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/8800/dojox/trunk/wire/tests/programmatic/_base.js
+END
+ConverterDynamic.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/10052/dojox/trunk/wire/tests/programmatic/ConverterDynamic.js
+END
+DataWire.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/8675/dojox/trunk/wire/tests/programmatic/DataWire.js
+END
+TreeAdapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/8675/dojox/trunk/wire/tests/programmatic/TreeAdapter.js
+END

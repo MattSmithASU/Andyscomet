@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/src/!svn/ver/23844/dojox/trunk/widget/gauge
+END
+AnalogArcIndicator.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/23844/dojox/trunk/widget/gauge/AnalogArcIndicator.js
+END
+_Gauge.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23844/dojox/trunk/widget/gauge/_Gauge.js
+END
+AnalogArrowIndicator.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23844/dojox/trunk/widget/gauge/AnalogArrowIndicator.js
+END
+AnalogNeedleIndicator.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/23844/dojox/trunk/widget/gauge/AnalogNeedleIndicator.js
+END
+_Gauge.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/16003/dojox/trunk/widget/gauge/_Gauge.html
+END
+BarIndicator.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23844/dojox/trunk/widget/gauge/BarIndicator.js
+END
+_Gauge.css
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/16003/dojox/trunk/widget/gauge/_Gauge.css
+END
+_Indicator.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/16003/dojox/trunk/widget/gauge/_Indicator.html
+END

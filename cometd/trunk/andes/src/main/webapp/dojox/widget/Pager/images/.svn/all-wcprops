@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/14452/dojox/trunk/widget/Pager/images
+END
+pageInactive.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/14452/dojox/trunk/widget/Pager/images/pageInactive.png
+END
+vPrevious.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/14452/dojox/trunk/widget/Pager/images/vPrevious.png
+END
+hPrevious.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/14452/dojox/trunk/widget/Pager/images/hPrevious.png
+END
+vNext.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/14452/dojox/trunk/widget/Pager/images/vNext.png
+END
+hNext.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/14452/dojox/trunk/widget/Pager/images/hNext.png
+END
+pageActive.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/14452/dojox/trunk/widget/Pager/images/pageActive.png
+END

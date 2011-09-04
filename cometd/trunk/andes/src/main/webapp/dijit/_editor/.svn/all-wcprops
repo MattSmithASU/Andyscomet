@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/src/!svn/ver/24247/dijit/trunk/_editor
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23033/dijit/trunk/_editor/html.js
+END
+selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/24242/dijit/trunk/_editor/selection.js
+END
+RichText.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/24244/dijit/trunk/_editor/RichText.js
+END
+range.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/src/!svn/ver/24118/dijit/trunk/_editor/range.js
+END
+_Plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/23845/dijit/trunk/_editor/_Plugin.js
+END

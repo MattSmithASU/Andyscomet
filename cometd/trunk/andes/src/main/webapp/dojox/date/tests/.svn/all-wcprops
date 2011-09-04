@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/src/!svn/ver/23844/dojox/trunk/date/tests
+END
+test_DateTextBoxIslamic.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/20342/dojox/trunk/date/tests/test_DateTextBoxIslamic.html
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/18865/dojox/trunk/date/tests/module.js
+END
+timezoneFormatting.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/23844/dojox/trunk/date/tests/timezoneFormatting.js
+END
+test_DateTextBoxBuddhist.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/20342/dojox/trunk/date/tests/test_DateTextBoxBuddhist.html
+END
+timezone.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/19745/dojox/trunk/date/tests/timezone.js
+END
+relative.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/23844/dojox/trunk/date/tests/relative.js
+END
+test_DateTextBoxNewHebrewGreg.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/21684/dojox/trunk/date/tests/test_DateTextBoxNewHebrewGreg.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/15375/dojox/trunk/date/tests/runTests.html
+END
+tztests_from_zdump.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/19745/dojox/trunk/date/tests/tztests_from_zdump.pl
+END
+posix.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/23844/dojox/trunk/date/tests/posix.js
+END
+HebrewDateTest1.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/17171/dojox/trunk/date/tests/HebrewDateTest1.html
+END

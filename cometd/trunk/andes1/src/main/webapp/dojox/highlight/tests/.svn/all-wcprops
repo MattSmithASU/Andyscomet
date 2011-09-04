@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/23844/dojox/trunk/highlight/tests
+END
+example-xml-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23007/dojox/trunk/highlight/tests/example-xml-data.xml
+END
+example-xquery-source.xquery
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/23007/dojox/trunk/highlight/tests/example-xquery-source.xquery
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/23844/dojox/trunk/highlight/tests/module.js
+END
+highlight.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/23844/dojox/trunk/highlight/tests/highlight.js
+END
+highlightRequires.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/23007/dojox/trunk/highlight/tests/highlightRequires.js
+END
+example-java-source.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/23007/dojox/trunk/highlight/tests/example-java-source.java
+END
+test_pygments.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/15375/dojox/trunk/highlight/tests/test_pygments.html
+END
+test_highlight.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22292/dojox/trunk/highlight/tests/test_highlight.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/15375/dojox/trunk/highlight/tests/runTests.html
+END
+test_highlightWidget.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/23007/dojox/trunk/highlight/tests/test_highlightWidget.html
+END
+example-xml-resultdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/23007/dojox/trunk/highlight/tests/example-xml-resultdata.xml
+END
+pretty.css
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/23007/dojox/trunk/highlight/tests/pretty.css
+END
